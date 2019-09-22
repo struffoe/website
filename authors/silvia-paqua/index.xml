@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia Paqua | Academic</title>
+    <link>/authors/silvia-paqua/</link>
+      <atom:link href="/authors/silvia-paqua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvia Paqua</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Silvia Paqua</title>
+      <link>/authors/silvia-paqua/</link>
+    </image>
+    
+    <item>
+      <title>Navigating the early career. The social stratification of young workers&#39; employment trajectories in Italy</title>
+      <link>/publication/filandripasquastruffolino2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/filandripasquastruffolino2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
