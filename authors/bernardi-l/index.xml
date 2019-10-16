@@ -2,38 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bernardi L. | Academic</title>
-    <link>/authors/bernardi-l./</link>
-      <atom:link href="/authors/bernardi-l./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/bernardi-l./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/bernardi-l./index.xml" rel="self" type="application/rss+xml" />
     <description>Bernardi L.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Bernardi L.</title>
-      <link>/authors/bernardi-l./</link>
+      <link>https://www.emanuela-struffolino.com/authors/bernardi-l./</link>
     </image>
     
     <item>
+      <title>Migrant Status and Lone Motherhood. Risk Factors of Female Labour Force Participation in Switzerland.</title>
+      <link>https://www.emanuela-struffolino.com/publication/milewskistruffolinobernardi2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/milewskistruffolinobernardi2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vulnerabilität alleinerziehender Mütter in der Schweiz aus einer Lebensverlaufsperspektive</title>
-      <link>/publication/struffolinobernardi2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinobernardi2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinobernardi2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinobernardi2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-parent households in Switzerland. Continuity and change over time.</title>
-      <link>/dissemination/struffolinobernardi2016/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinobernardi2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinobernardi2016/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinobernardi2016/</guid>
       <description>&lt;p&gt;Publiches in &lt;em&gt;Demos - Demographic information&lt;/em&gt;, ”Family, migration” - No. 1 June 2016 , Neuchâtel: Swiss Federal Statistical Office.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Self-reported health among lone mothers in Switzerland. Do employment and education matter?</title>
-      <link>/publication/struffolinobernardivoorpostel2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinobernardivoorpostel2017/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinobernardivoorpostel2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinobernardivoorpostel2017/</guid>
       <description></description>
     </item>
     
