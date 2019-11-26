@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fasang A. | Academic</title>
-    <link>/authors/fasang-a./</link>
-      <atom:link href="/authors/fasang-a./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/fasang-a./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/fasang-a./index.xml" rel="self" type="application/rss+xml" />
     <description>Fasang A.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Fasang A.</title>
-      <link>/authors/fasang-a./</link>
+      <link>https://www.emanuela-struffolino.com/authors/fasang-a./</link>
     </image>
     
     <item>
       <title>Estimating the Relationship between Time-varying Covariates and Trajectories. The Sequence Analysis Multistate Model Procedure</title>
-      <link>/publication/studerstruffolinofasang2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/studerstruffolinofasang2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gender, education, and family life courses in East and West Germany. Insights from new sequence analysis techniques</title>
-      <link>/publication/studerstruffolinofasang2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/studerstruffolinofasang2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2017/</guid>
       <description></description>
     </item>
     

@@ -2,46 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Academic</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
     </image>
     
     <item>
-      <title>An introduction to Sequence Analysis</title>
-      <link>/project/project_1_sabook/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project_1_sabook/</guid>
-      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
-
-&lt;p&gt;In preparation for the SAGE&amp;rsquo;s Quantitative Applications in the Social Sciences (QASS)&lt;/p&gt;
-
-&lt;p&gt;How does the school-to-work transition process look like in different countries? Do individual electoral participation pattern differ across context with varying degrees of residential segregation? How similar are employment biographies across cohorts of workers who entered the labor market before and after the recent economic crisis? Do democratization processes differ depending on the pathways of turnover between rightist and leftist parties? Answering these research questions requires the application of analysis tools that capture how processes unfold over time. Within the toolkit of longitudinal methods, we consider social sequence analysis to be one of the most powerful and versatile ones – particularly when it comes to studying longitudinal categorical data.&lt;/p&gt;
-
-&lt;p&gt;Sequence analysis was introduced in the social sciences in the 1980s. Andrew Abbott, inspired by the treatment of DNA strings in biology, developed it as a technique to study social processes that unfold over time as sequences of events (Abbott &amp;amp; Forrest, 1986). Sequence analysis has gained increasing attention as the recent widespread availability of longitudinal data made it possible to address sequence-oriented questions. The mainstream application of sequence analysis relies on optimal matching techniques to measure the distance between sequences that represent the individual realization of a certain process and on the clustering of such sequences to identify typical trajectories. Regression analysis is often applied as a second step to investigate why (and not only how) sequences resemble or differ from each other. In the last ten years, several innovations have been introduced to overcome weaknesses and limitation of the initial proposition. A sequence analysis introductory book is currently missing in the QASS series. Therefore, the book will complement the rich catalogue of the QASS series with an up-to-date introduction to a technique that is steadily gaining popularity.&lt;/p&gt;
-
-&lt;p&gt;Several statistical software tools made it available to a broader public. However, existing publications on sequence analysis that might serve the purpose of teaching and learning its basics, are scattered across several journal articles, books, and software documentations. This makes it hard for newcomers to figure out where to start and to identify good practices for performing methodologically sound analyses. To answer these needs, the book introduces the basics of sequence analysis to guide practitioners and support instructors along the working flow of sequence analysis. The presentation of statistical, substantive, and theoretical foundations will be enriched by examples to help the reader in understanding the advantages and disadvantages of specific analytical choices. The extensive ancillary material will support self-learning by offering exercises and solutions based on real data and research questions in the field of life course research. Finally, the book will include practical guidelines considering recent advances and innovations in sequence analysis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Being working poor or feeling working poor? The role of work intensity and job stability for subjective poverty</title>
-      <link>/publication/filandripasquastruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/filandripasquastruffolino2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/filandripasquastruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/filandripasquastruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>30 years of inequalities. Family planning centers in Italy</title>
-      <link>/dissemination/struffolinozagel2019/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinozagel2019/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinozagel2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinozagel2019/</guid>
       <description>&lt;p&gt;published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The absence of a national strategy to provide widespread access to information and high-quality services in Italy results in the extremely low ranking of the country on all of the indicators monitored by the European Barometer of Women&amp;rsquo;s Access to Modern Contraceptive Choice.&lt;/p&gt;
@@ -52,17 +35,17 @@
     
     <item>
       <title>Navigating the early career. The social stratification of young workers&#39; employment trajectories in Italy</title>
-      <link>/publication/struffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolino2019/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics for validation and visualization in Sequence Analysis</title>
-      <link>/project/project_4_methods/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_4_methods/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project_4_methods/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_4_methods/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;http://faculty.unibocconi.eu/raffaellapiccarreta/&#34;&gt;  Raffaella Piccarreta&lt;/a&gt; (Bocconi University, Milan)&lt;/p&gt;
 
 &lt;p&gt;Publications in progress:&lt;/p&gt;
@@ -77,9 +60,9 @@
     
     <item>
       <title>Lavoro e salute. L’importanza di considerare le traiettorie di carriera [Work and health. The importance of employment trajetories]</title>
-      <link>/dissemination/devillaraitanostruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/devillaraitanostruffolino2019/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/dissemination/devillaraitanostruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/devillaraitanostruffolino2019/</guid>
       <description>&lt;p&gt;Outreach of the article &lt;em&gt;&amp;ldquo;Multiple life-course employment trajectories and health. Evidence from linked administrative and survey data&amp;rdquo;&lt;/em&gt; published on &lt;em&gt;Neodemos.info&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Comprendere il rapporto tra lavoro e salute è fondamentale per individuare forme di disuguaglianza tra gruppi di individui. Utilizzando dati INPS agganciati al modulo italiano dell’indagine EU-SILC, Carlo Devillanova, Michele Raitano ed Emanuela Struffolino mostrano l’importanza di considerare l’intera traiettoria lavorativa – il susseguirsi nel tempo di specifiche occupazioni o periodi di non lavoro – per studiare la relazione tra lavoro e salute in età adulta.&lt;/p&gt;
@@ -88,42 +71,58 @@
     
     <item>
       <title>Individual and household in-work poverty in Europe. understanding the role of labor market characteristics</title>
-      <link>/publication/filandristruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/filandristruffolino2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/filandristruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/filandristruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple life-course employment trajectories and health. Evidence from linked administrative and survey data</title>
-      <link>/publication/devillanovaraitanostruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/devillanovaraitanostruffolino2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/devillanovaraitanostruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/devillanovaraitanostruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wege aus der Erwerbsarmut in den USA [Pathways out of in-work poverty in the US]</title>
-      <link>/dissemination/struffolinovanwinkle2019/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinovanwinkle2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2019/</guid>
       <description>&lt;p&gt;Published in the &lt;em&gt;WZB-Mitteilungen Nr. 164&lt;/em&gt;, in the special issue &lt;em&gt;&amp;ldquo;Es wird eng. Ein Heft über die Vereinigten Staaten von Amerika&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
-      <link>/publication/raabstruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/raabstruffolino2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/raabstruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/raabstruffolino2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did you realize your preferences for early retirement? Insights on the agency-within-structure mechanism across welfare regimes</title>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinozaccaria2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinozaccaria2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hard times. Labor-market outcomes of early school leavers in Italy before and after the crisis [Tempi difficili. Le condizioni occupazionali degli early school leavers in Italia prima e dopo la crisi]</title>
+      <link>https://www.emanuela-struffolino.com/publication/borgnastruffolino2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/borgnastruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lavoratrici ma povere [Women who work but are poor]</title>
-      <link>/dissemination/struffolinovanwinkle2018/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2018/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinovanwinkle2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2018/</guid>
       <description>&lt;p&gt;Outreach of the article &lt;em&gt;&amp;ldquo;When working isn&amp;rsquo;t enough. Family Demographic Process and In-Work Poverty across the Life Course in the United States&amp;rdquo;&lt;/em&gt; published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Non basta il lavoro per scampare il rischio di povertà. Uno studio sugli Stati Uniti spiega come redditi bassi e transizioni familiari incidono sulla vita delle donne, soprattutto se non hanno la pelle bianca.&lt;/p&gt;
@@ -132,9 +131,9 @@
     
     <item>
       <title>Understanding Family Demographic Processes and In-Work Poverty in Europe</title>
-      <link>/project/project_2_oxber/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_2_oxber/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_2_oxber/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_2_oxber/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.zachary-vanwinkle.com/&#34;&gt;  Zachary van Winkle&lt;/a&gt; (University of Oxford), Christiaan Monden (University of Oxford), Johannes Giesecke (Humboldt-Universität zu Berlin)&lt;/p&gt;
 
 &lt;p&gt;This project analyses the role of family demographic processes (leaving parental home, marriage, divorce, and parenthood) for the probability of being working poor and how it changes over the life course.&lt;/p&gt;
@@ -155,9 +154,9 @@
     
     <item>
       <title>Perchè il ddl Pillon non è una buona idea [Why the Pillon-Law proposal on mantainance after separation is not a good idea]</title>
-      <link>/dissemination/larenzastruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/larenzastruffolino2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/dissemination/larenzastruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/larenzastruffolino2018/</guid>
       <description>&lt;p&gt;published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Il 10 novembre molte città italiane saranno coinvolte in una mobilitazione nazionale partita dalle donne per chiedere il ritiro del disegno di legge Pillon che vorrebbe cancellare anni di femminismo. Due ricercatrici ci spiegano perché.&lt;/p&gt;
@@ -166,9 +165,9 @@
     
     <item>
       <title>Gender differences in early school leaving. Academic performance, family resources, and labor-market opportunities.</title>
-      <link>/project/project_3_it_drop/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_3_it_drop/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_3_it_drop/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_3_it_drop/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.carloalberto.org/person/camilla-borgna/&#34;&gt;  Camilla Borgna&lt;/a&gt;  (Collegio Carlo Alberto, Turin)&lt;/p&gt;
 
 &lt;p&gt;Given the rising skill demands of the labor market, early school leavers constitute a vulnerable group in contemporary societies: young people who do not hold any kind of upper-secondary qualification tend to experience difficulties in transitioning to the first job and in later labor market integration. Early school leaving is also connected to other negative outcomes such as poor health and lack of civic and political participation. From a policy perspective, early school leaving can therefore be considered a “new social risk”, as recognized by the EU strategy for growth for which the reduction of early school leaving to less than 10% is one of the main five targets to be met until the year 2020.
@@ -192,65 +191,65 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>When Working Isn’t Enough. Family Demographic Process and In-Work Poverty across the Life Course in the United States</title>
-      <link>/publication/vanwinklestruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/vanwinklestruffolino2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/vanwinklestruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/vanwinklestruffolino2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the Relationship between Time-varying Covariates and Trajectories. The Sequence Analysis Multistate Model Procedure</title>
-      <link>/publication/studerstruffolinofasang2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/studerstruffolinofasang2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Il generation gap nell&#39;accesso al mercato del lavoro. Complessità e destandardizzazione delle traiettorie di ingresso</title>
-      <link>/publication/struffolinoraitano2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinoraitano2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinoraitano2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinoraitano2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lavoratori o lavoratrici povere? Disuguaglianze di genere nel mercato del lavoro in Europa.</title>
-      <link>/publication/filandristruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/filandristruffolino2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/filandristruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/filandristruffolino2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lone mothers in Belgium. Labour force attachment and risk factors.</title>
-      <link>/publication/struffolinomortelmans2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinomortelmans2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinomortelmans2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinomortelmans2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migrant Status and Lone Motherhood. Risk Factors of Female Labour Force Participation in Switzerland.</title>
-      <link>/publication/milewskistruffolinobernardi2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/milewskistruffolinobernardi2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/milewskistruffolinobernardi2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/milewskistruffolinobernardi2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unpacking configurational dynamics. Sequence analysis and qualitative comparative analysis as a mixed-method design</title>
-      <link>/publication/borgnastruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/borgnastruffolino2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/borgnastruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/borgnastruffolino2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The stratification of contraceptive use at first intercourse in Italy, 1950-2006</title>
-      <link>/project/project_5_contraception/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_5_contraception/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_5_contraception/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_5_contraception/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://hannahzagel.com/&#34;&gt;  Hannah Zagel&lt;/a&gt; (Humboldt-Universität zu Berlin)&lt;/p&gt;
 
 &lt;p&gt;Previous research finds contraceptive use to be stratified both by social background and by gender. Analysing data from the “Survey on Italians’ Sexual Behavior” (2006), our study is the first to study these links in Italy. Looking at changes in contraceptive use at first intercourse before and after liberalization of family planning institutions in Italy, we find no difference by social background in the restrictive regulation period, but difference for young men in the liberal period. The probability of contraceptive use occurred for both young men and women, but women remain less likely to use contraception than their male counterparts even after liberalization. For studying the role of specific institutions, we included macro-level indicators for access to and information on contraception.&lt;/p&gt;
@@ -259,68 +258,68 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Gender, education, and family life courses in East and West Germany. Insights from new sequence analysis techniques</title>
-      <link>/publication/studerstruffolinofasang2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/studerstruffolinofasang2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/studerstruffolinofasang2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schule und das Push’n Pull. Vorzeitiger Schulabgang unter Mädchen und Jungen in Italien</title>
-      <link>/dissemination/borgnastruffolino2017/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/borgnastruffolino2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/dissemination/borgnastruffolino2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/borgnastruffolino2017/</guid>
       <description>&lt;p&gt;Outreach on &lt;em&gt;WZB - Mitteilungen&lt;/em&gt; issue N. 155 &lt;em&gt;“Digital Wie Arbeit, Leben, Forschung sich und uns verändern”&lt;/em&gt; of the article &lt;em&gt;&amp;ldquo;Pushed or pulled? Girls and boys facing early school leaving risk in Italy&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vulnerabilität alleinerziehender Mütter in der Schweiz aus einer Lebensverlaufsperspektive</title>
-      <link>/publication/struffolinobernardi2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinobernardi2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinobernardi2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinobernardi2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushed or pulled? Girls and boys facing early school leaving risk in Italy</title>
-      <link>/publication/borgnastruffolino2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/borgnastruffolino2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/borgnastruffolino2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/borgnastruffolino2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mehrfach benachteiligt. Wie Bildung, Job und Einkommen die Gesundheit alleinerziehender Mütter in der Schweiz prägen</title>
-      <link>/dissemination/struffolino2016/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolino2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolino2016/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolino2016/</guid>
       <description>&lt;p&gt;Outreach published on &lt;em&gt;WZB - Mitteilungen&lt;/em&gt; N. 153 &amp;ldquo;Familie 2016. Arbeit, Gesundheit und Partnerschaft im Kontext.&amp;rdquo; of the article &lt;em&gt;&amp;ldquo;Self-reported health among lone mothers in Switzerland. Do employment and education matter?&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>One-parent households in Switzerland. Continuity and change over time.</title>
-      <link>/dissemination/struffolinobernardi2016/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinobernardi2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinobernardi2016/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinobernardi2016/</guid>
       <description>&lt;p&gt;Publiches in &lt;em&gt;Demos - Demographic information&lt;/em&gt;, ”Family, migration” - No. 1 June 2016 , Neuchâtel: Swiss Federal Statistical Office.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Self-reported health among lone mothers in Switzerland. Do employment and education matter?</title>
-      <link>/publication/struffolinobernardivoorpostel2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/struffolinobernardivoorpostel2017/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinobernardivoorpostel2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/struffolinobernardivoorpostel2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L’abbandono scolastico in Italia. Genere, risorse familiari e mercato del lavoro [Early school-leaving in Itay. Gender, family background, and the labour market].</title>
-      <link>/dissemination/borgnastruffolino2015/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/borgnastruffolino2015/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/dissemination/borgnastruffolino2015/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/borgnastruffolino2015/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;&amp;ldquo;Menabò di Etica &amp;amp; Economia&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;L’Italia è uno dei paesi europei con il tasso di abbandono scolastico più alto: quasi il 20% dei giovani italiani (il 5% in più rispetto alla media europea in base ai dati Eurostat) lascia la scuola senza conseguire un diploma di istruzione superiore. La riduzione dell’abbandono scolastico è uno dei cinque obiettivi chiave del piano decennale per la crescita dell’Unione Europea. Le autrici discutono le differenze territoriali in una prospettiva di genere.&lt;/p&gt;
@@ -329,9 +328,9 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Così uguali, così diversi [So much alike, but so unequal].</title>
-      <link>/dissemination/borgnaetal2015/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/borgnaetal2015/</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/dissemination/borgnaetal2015/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/borgnaetal2015/</guid>
       <description>&lt;p&gt;Published on nelMerito.com.  1.10.2015.&lt;/p&gt;
 
 &lt;p&gt;Questo contributo riprende 3 studi sulla discriminazione di genere di Mandrone e Radicchia (‘14), Borgna e Struffolino (‘14) e Fanfani (‘15) che, con metodiche differenti e partendo da punti di vista diversi, utilizzando i dati Isfol PLUS, giungono a verificare la presenza di una selezione sistematica di genere. Possiamo convenire che l’antidoto migliore per contrastare una qualsiasi di discriminazione è sostenere la cultura della diversità, nell’accezione dell’action plan della Commis-sione Europea di “diversity disclosure”.&lt;/p&gt;
@@ -340,9 +339,9 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>/cv/journal-article/</link>
+      <link>https://www.emanuela-struffolino.com/cv/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/cv/journal-article/</guid>
+      <guid>https://www.emanuela-struffolino.com/cv/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -361,9 +360,9 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Accumulare povertà? Note sull report dell&#39;ISTAT &#34;La povertà in Italia 2014 [Accumulating poverty? Notes on the ISTAT Report “Poverty in Italy 2014”]&#34;</title>
-      <link>/dissemination/filandristruffolino2015/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/filandristruffolino2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/dissemination/filandristruffolino2015/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/filandristruffolino2015/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;Il Menabó di Etica e Economia&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Emanuela Struffolino e Marianna Filandri commentano il recente report dell’Istat sulla povertà in Italia nel 2014. Le due autrici sottolineano, da un lato, il dato positivo del non peggioramento della povertà complessiva rispetto al 2013 e, dall’altro, la forte penalizzazione in termini di povertà assoluta e relativa di alcune famiglie e individui con particolari caratteristiche. In particolare, esse mettono in luce come le dimensioni della povertà possano sommarsi per la fascie più deboli determinando situazioni di svantaggio cumulativo.&lt;/p&gt;
@@ -372,9 +371,9 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Proprietà della casa e riproduzione delle disuguaglianze nella Legge di Stabilità per il 2016. [Household tenure and reproducion of inequalities in the Stability Law for 2016].</title>
-      <link>/dissemination/filandristruffolino2016/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/filandristruffolino2016/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/dissemination/filandristruffolino2016/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/filandristruffolino2016/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;&amp;ldquo;Menabò di Etica &amp;amp; Economia&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Marianna Filandri e Emanuela Struffolino esaminano gli effetti sulla disuguaglianza delle misure sulla casa contenute nella Legge di Stabilità del 2016. Dopo aver ricordato che in Italia la proprietà della casa è molto diffusa e, quindi, ad essa non è sempre associato uno stato di elevata prosperità e benessere, le autrici mostrano come, estendendo alcune esenzioni ai proprietari, la legge di Stabilità riproduca un sistema di diseguaglianze basate sulla proprietà che condizionerà negativamente le opportunità di molte famiglie e dei loro figli.&lt;/p&gt;
@@ -383,9 +382,9 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Lone parenthood - Family and labor market dynamics in a life course perspective</title>
-      <link>/project/project_6_loneparents/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_6_loneparents/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>/project/project_6_loneparents/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_6_loneparents/</guid>
       <description>&lt;p&gt;With the research group &lt;em&gt;&amp;ldquo;Lone parenthood, vulnerability, and resources&amp;rdquo;&lt;/em&gt; at NCCR-LIVES &amp;ldquo;Overcoming vulnerability. A life-course perspective&amp;rdquo;&amp;rdquo; (University of Lausanne).&lt;/p&gt;
 
 &lt;p&gt;Outreach of publications related to this project&lt;/p&gt;
@@ -406,17 +405,17 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Traiettorie lavorative e salariali a inizio carriera in Italia. Un&#39;analisi longitudinale</title>
-      <link>/publication/raitanostruffolino2013/</link>
+      <link>https://www.emanuela-struffolino.com/publication/raitanostruffolino2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/raitanostruffolino2013/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/raitanostruffolino2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working poor. Lavoratori con basso salario o occupati che vivono in famiglie povere? Un’analisi del fenomeno in Italia prima e dopo la crisi</title>
-      <link>/publication/filandristruffolino2013/</link>
+      <link>https://www.emanuela-struffolino.com/publication/filandristruffolino2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/filandristruffolino2013/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/filandristruffolino2013/</guid>
       <description></description>
     </item>
     
