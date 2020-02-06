@@ -5,7 +5,7 @@
     <link>/datacode/</link>
       <atom:link href="/datacode/index.xml" rel="self" type="application/rss+xml" />
     <description>Datacodes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Datacodes</title>
@@ -13,11 +13,41 @@
     </image>
     
     <item>
-      <title>Data on family centers in Italy 1978-2017 (under construction)</title>
+      <title>Data on family planning centers and objecting medical doctors in Italy 1978-2017</title>
       <link>/datacode/data1_familycenters/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/datacode/data1_familycenters/</guid>
-      <description>&lt;p&gt;Under construction&lt;/p&gt;
+      <description>&lt;p&gt;Historical series of data from &lt;em&gt;&amp;ldquo;Relazione del Ministro della Salute sulla attuazione della legge contenente norme per la tutela sociale della maternitá e per l’interruzione volontaria di gravidanza - Legge 194 del 1978&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Starting from 1978, the Ministry of Justice and the Ministry of Health have the duty to compile every year a report on the implementation of the law for the protection of maternity and for the voluntary termination of pregnancy (Law n. 194, paragraph 6, May 22nd) to the Parliament. Originally, this report (Relazione del Ministro della salute sulla attuazione della legge contenente norme per la tutela sociale della maternità e per l’interruzione volontaria di gravidanza - Legge &lt;sup&gt;194&lt;/sup&gt;&amp;frasl;&lt;sub&gt;78&lt;/sub&gt;).&lt;/p&gt;
+
+&lt;p&gt;The reports were retrieved from the website &lt;a href=&#34;https://storia.camera.it/&#34;&gt; &lt;a href=&#34;https://storia.camera.it/&#34;&gt;https://storia.camera.it/&lt;/a&gt;&lt;/a&gt; &lt;a href=&#34;https://storia.camera.it/&#34;&gt;https://storia.camera.it/&lt;/a&gt; and &lt;a href=&#34;http://www.salute.gov.it/portale/home.html&#34;&gt; &lt;a href=&#34;http://www.salute.gov.it/portale/home.html&#34;&gt;http://www.salute.gov.it/portale/home.html&lt;/a&gt;&lt;/a&gt;. Information on objecting doctors and on the family planning centres are missing for the years 1978, 1979 and 1980. For the year 1981 only data for the family planning centres was available. Furthermore, there was no data for the year 1996.&lt;/p&gt;
+
+&lt;p&gt;We provide a ready-to-use excel file that contains information retrieved from the reports 1978-2017 on the regional level and on the NUTS-1 level on&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;number of gynaecologists [column Gynaecologists]&lt;/li&gt;
+&lt;li&gt;number of anaesthetists [column Anaesthetists]&lt;/li&gt;
+&lt;li&gt;number of paramedics [column Paramedics]&lt;/li&gt;
+&lt;li&gt;percentage of gynaecologists who refused abortions due to a moral reason [column Objecting Gynaecologists]&lt;/li&gt;
+&lt;li&gt;percentage of anaesthetists who refused abortions due to a moral reason [column Objecting Anaesthetists]&lt;/li&gt;
+&lt;li&gt;percentage of paramedics who refused abortions due to a moral reason [column Objecting Paramedics]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres in total [column Public Family Centres]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres per 10.000 women between 15 to 49 year-old [column Public Family Centres [per 10k women aged 15-49]]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres per 20.000 inhabitants [column Public Family Centres [per 20k inhabitants]]&lt;/li&gt;
+&lt;li&gt;the number of private family planning centres [column Private Family Centres]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can download the files &lt;a href=&#34;https://www.dropbox.com/sh/y4kc4tv0q477udt/AACeSMvDrbtedNKP7psduCbba?dl=0&#34;&gt; here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The excel files were compiled by Martin Gädecke (Humboldt-Universität zu Berlin) between May and December 2019.&lt;/li&gt;
+&lt;li&gt;This documentation was compiled by Martin Gädecke (Humboldt-Universität zu Berlin) and Emanuela Struffolino (WZB Berlin Social Science Center and Humboldt-Universität zu Berlin).&lt;/li&gt;
+&lt;li&gt;If you have questions or remarks on the data, please send an email to emanuela.struffolino@gmail.com&lt;/li&gt;
+&lt;li&gt;If you use these data, please cite &lt;em&gt;Struffolino, E.,  Zagel, H. (2020, January 19). Limits to the detraditionalization of intimacy: Contraceptive use at first intercourse in Italy, 1950-2006.&lt;/em&gt; &lt;a href=&#34;https://doi.org/10.31235/osf.io/gvta2&#34;&gt;https://doi.org/10.31235/osf.io/gvta2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

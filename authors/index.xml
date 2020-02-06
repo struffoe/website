@@ -6,6 +6,12 @@
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
     <item>
       <title>Borgna C.</title>
       <link>/authors/borgna-c./</link>
@@ -83,7 +89,8 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am postdoctoral fellow in the research unit &lt;a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets &gt; &amp;ldquo;Skill Formation and Labor Markets&amp;quot;&lt;/a&gt; at the &lt;a href= https://wzb.eu/de &gt; WZB Berlin Social Science Center&lt;/a&gt; and associate research at the chair for &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/lehrbereichsteam &gt; Microsociology at the Humboldt University of Berlin&lt;/a&gt;. Between 2015 and 2019 I was a postdoctoral fellowat research group &lt;a href= https://wzb.eu/de/news/demography-and-inequality &gt; &amp;ldquo;Demography and Inequality&amp;quot;&lt;/a&gt; Research Group at the WZB. I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;quot;&lt;/a&gt; at the University of Lausanne. My research interests include life-course sociology, gender inequalities in the labor market, social stratification dynamics, poverty, and methods for longitudinal data. I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am postdoctoral fellow in the research unit &lt;a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets &gt; &amp;ldquo;Skill Formation and Labor Markets&amp;rdquo;&lt;/a&gt; at the &lt;a href= https://wzb.eu/de &gt; WZB Berlin Social Science Center&lt;/a&gt; and associate research at the chair for &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/lehrbereichsteam &gt; Microsociology at the Humboldt University of Berlin&lt;/a&gt;. Between 2015 and 2019 I was a postdoctoral fellowat research group &lt;a href= https://wzb.eu/de/news/demography-and-inequality &gt; &amp;ldquo;Demography and Inequality&amp;rdquo;&lt;/a&gt; Research Group at the WZB. I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;rdquo;&lt;/a&gt; at the University of Lausanne. My research interests include life-course sociology, gender inequalities in the labor market, social stratification dynamics, poverty, and methods for longitudinal data. I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;On this website, you can find information on my publications and ongoing research.&lt;/p&gt;
 </description>
     </item>

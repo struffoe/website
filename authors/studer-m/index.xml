@@ -6,6 +6,12 @@
       <atom:link href="/authors/studer-m./index.xml" rel="self" type="application/rss+xml" />
     <description>Studer M.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Studer M.</title>
+      <link>/authors/studer-m./</link>
+    </image>
+    
     <item>
       <title>Estimating the Relationship between Time-varying Covariates and Trajectories. The Sequence Analysis Multistate Model Procedure</title>
       <link>/publication/studerstruffolinofasang2018/</link>

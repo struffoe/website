@@ -6,12 +6,19 @@
       <atom:link href="/authors/larenza-o./index.xml" rel="self" type="application/rss+xml" />
     <description>Larenza O.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Larenza O.</title>
+      <link>/authors/larenza-o./</link>
+    </image>
+    
     <item>
       <title>Perchè il ddl Pillon non è una buona idea [Why the Pillon-Law proposal on mantainance after separation is not a good idea]</title>
       <link>/dissemination/larenzastruffolino2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/dissemination/larenzastruffolino2018/</guid>
-      <description>&lt;p&gt;published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
+
 &lt;p&gt;Il 10 novembre molte città italiane saranno coinvolte in una mobilitazione nazionale partita dalle donne per chiedere il ritiro del disegno di legge Pillon che vorrebbe cancellare anni di femminismo. Due ricercatrici ci spiegano perché.&lt;/p&gt;
 </description>
     </item>
