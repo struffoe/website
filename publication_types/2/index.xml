@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
@@ -13,11 +13,52 @@
     </image>
     
     <item>
+      <title>Sequence analysis in the social sciences. An introduction</title>
+      <link>/teaching/2020_sa_gesis/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/2020_sa_gesis/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
+&lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Culture and values in European societies</title>
+      <link>/teaching/2020_fu_lecture_culture/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/2020_fu_lecture_culture/</guid>
+      <description>&lt;p&gt;Lecture, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;What are the major cultural differences between the Member States of the European Union? How can one explain these differences? Are the cultural differences diminishing so that one can speak of a unified European culture? These are the three systematic research questions which underlie the structure of the lecture. The course will apply these questions to the different dimensions of culture. Apart from factual information, the course presents an overview of the different sociological concepts of culture and how different authors have used their concept to analyse cultural differences between European countries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-work poverty in Europe and in the US</title>
+      <link>/teaching/2020_fu_wp/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/2020_fu_wp/</guid>
+      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;Working poor are individuals who are gainfully employed, but their household income is below the poverty threshold. Therefore, in-work poverty arises at intersection of labour market and family dynamics: on the one hand, individual resources are related to the likelihood of experiencing unfavourable labour market arrangements leading to poverty (e.g. low-wage or temporary contracts); on the other hand, specific family structure or family-life-course transitions (e.g., the birth of a child or divorce) are associated with different levels of households’ economic wellbeing. The seminar will examine how and why in-work poverty became a critical issue in the US and in Europe. The aim is to offers a comprehensive understanding of in-work poverty by, first, discussing the theoretical and methodological challenges of defining and measuring it. Second, we will consider the prevalence of working poor over time and across specific social groups will in different welfare and labor market regimes. Finally, we will discuss the implications of the characteristics of in-work poverty across countries for policy design.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to sequence analysis for studying the life course</title>
+      <link>/teaching/2020_fu_lifecourse/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/2020_fu_lifecourse/</guid>
+      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;How similar are family life courses of individuals from different generations? Are younger workers experiencing more unsecure employment trajectories compare to their parents? How does the birth of a child influence mothers’ pathways of labor market participation in the long run in different countries? The seminar will, first, consider how empirical research has addressed these questions using sequence analysis to study the life course. Sequence analysis is a powerful set of analytical tools originally developed in biology to analyze strings of DNA that was introduced in the late 1980s in the social sciences to analyze temporal processes. Second, basic techniques to apply sequence analysis will be introduced with hands-on examples on. How to compare sequences that represents individual life-courses, how to group sequences to identify the typical patterns in the population, how to effectively visualize life courses, how to relate individual characteristics to how life courses unfolded over time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chi è stato davvero “lasciato indietro”? Le differenze di genere nell’integrazione dei giovani scarsamente istruiti nel mercato del lavoro [Who has been really &#34;left behind&#34;? Gender differences in the labor market among early-school-leavers]</title>
       <link>/dissemination/struffolinoborgna2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/dissemination/struffolinoborgna2020/</guid>
-      <description></description>
+      <description>&lt;p&gt;We examine various studies showing the persistence of a substantial gender gap in school-to-work transitions and in the active participation in the italian labor market of young people with low educational attainment. We that, despite the concerns expressed in the public debate for boys with low educational success, in the Italian case it is young women with low qualification who are exposed the highest risks of being &amp;ldquo;left behind&amp;rdquo; in the labor market.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,13 +75,9 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/project_1_sabook/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
-
 &lt;p&gt;In preparation for the SAGE&amp;rsquo;s Quantitative Applications in the Social Sciences (QASS)&lt;/p&gt;
-
 &lt;p&gt;How does the school-to-work transition process look like in different countries? Do individual electoral participation pattern differ across context with varying degrees of residential segregation? How similar are employment biographies across cohorts of workers who entered the labor market before and after the recent economic crisis? Do democratization processes differ depending on the pathways of turnover between rightist and leftist parties? Answering these research questions requires the application of analysis tools that capture how processes unfold over time. Within the toolkit of longitudinal methods, we consider social sequence analysis to be one of the most powerful and versatile ones – particularly when it comes to studying longitudinal categorical data.&lt;/p&gt;
-
 &lt;p&gt;Sequence analysis was introduced in the social sciences in the 1980s. Andrew Abbott, inspired by the treatment of DNA strings in biology, developed it as a technique to study social processes that unfold over time as sequences of events (Abbott &amp;amp; Forrest, 1986). Sequence analysis has gained increasing attention as the recent widespread availability of longitudinal data made it possible to address sequence-oriented questions. The mainstream application of sequence analysis relies on optimal matching techniques to measure the distance between sequences that represent the individual realization of a certain process and on the clustering of such sequences to identify typical trajectories. Regression analysis is often applied as a second step to investigate why (and not only how) sequences resemble or differ from each other. In the last ten years, several innovations have been introduced to overcome weaknesses and limitation of the initial proposition. A sequence analysis introductory book is currently missing in the QASS series. Therefore, the book will complement the rich catalogue of the QASS series with an up-to-date introduction to a technique that is steadily gaining popularity.&lt;/p&gt;
-
 &lt;p&gt;Several statistical software tools made it available to a broader public. However, existing publications on sequence analysis that might serve the purpose of teaching and learning its basics, are scattered across several journal articles, books, and software documentations. This makes it hard for newcomers to figure out where to start and to identify good practices for performing methodologically sound analyses. To answer these needs, the book introduces the basics of sequence analysis to guide practitioners and support instructors along the working flow of sequence analysis. The presentation of statistical, substantive, and theoretical foundations will be enriched by examples to help the reader in understanding the advantages and disadvantages of specific analytical choices. The extensive ancillary material will support self-learning by offering exercises and solutions based on real data and research questions in the field of life course research. Finally, the book will include practical guidelines considering recent advances and innovations in sequence analysis.&lt;/p&gt;
 </description>
     </item>
@@ -59,9 +96,7 @@
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/dissemination/struffolinozagel2019/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;The absence of a national strategy to provide widespread access to information and high-quality services in Italy results in the extremely low ranking of the country on all of the indicators monitored by the European Barometer of Women&amp;rsquo;s Access to Modern Contraceptive Choice.&lt;/p&gt;
-
 &lt;p&gt;Italian version: &lt;a href=&#34;http://www.ingenere.it/articoli/consultori-30-anni-disuguaglianze&#34;&gt;http://www.ingenere.it/articoli/consultori-30-anni-disuguaglianze&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -80,13 +115,14 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/project/project_4_methods/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;http://faculty.unibocconi.eu/raffaellapiccarreta/&#34;&gt;  Raffaella Piccarreta&lt;/a&gt; (Bocconi University, Milan)&lt;/p&gt;
-
 &lt;p&gt;Publications in progress:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Piccarreta R., Struffolino E., &lt;a href=&#34;https://osf.io/preprints/socarxiv/v7mj8/&#34;&gt; &lt;em&gt;Heuristics for validation in Sequence Analysis&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Piccarreta R., Struffolino E., &lt;em&gt;Enhancing fuzzy clusters’ interpretation  through visualization&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Piccarreta R., Struffolino E., &lt;a href=&#34;https://osf.io/preprints/socarxiv/v7mj8/&#34;&gt; &lt;em&gt;Heuristics for validation in Sequence Analysis&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Piccarreta R., Struffolino E., &lt;em&gt;Enhancing fuzzy clusters’ interpretation  through visualization&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -97,7 +133,6 @@
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/dissemination/devillaraitanostruffolino2019/</guid>
       <description>&lt;p&gt;Outreach of the article &lt;em&gt;&amp;ldquo;Multiple life-course employment trajectories and health. Evidence from linked administrative and survey data&amp;rdquo;&lt;/em&gt; published on &lt;em&gt;Neodemos.info&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Comprendere il rapporto tra lavoro e salute è fondamentale per individuare forme di disuguaglianza tra gruppi di individui. Utilizzando dati INPS agganciati al modulo italiano dell’indagine EU-SILC, Carlo Devillanova, Michele Raitano ed Emanuela Struffolino mostrano l’importanza di considerare l’intera traiettoria lavorativa – il susseguirsi nel tempo di specifiche occupazioni o periodi di non lavoro – per studiare la relazione tra lavoro e salute in età adulta.&lt;/p&gt;
 </description>
     </item>
@@ -157,7 +192,6 @@
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/dissemination/struffolinovanwinkle2018/</guid>
       <description>&lt;p&gt;Outreach of the article &lt;em&gt;&amp;ldquo;When working isn&amp;rsquo;t enough. Family Demographic Process and In-Work Poverty across the Life Course in the United States&amp;rdquo;&lt;/em&gt; published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Non basta il lavoro per scampare il rischio di povertà. Uno studio sugli Stati Uniti spiega come redditi bassi e transizioni familiari incidono sulla vita delle donne, soprattutto se non hanno la pelle bianca.&lt;/p&gt;
 </description>
     </item>
@@ -168,25 +202,22 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/project/project_2_oxber/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.zachary-vanwinkle.com/&#34;&gt;  Zachary van Winkle&lt;/a&gt; (University of Oxford), &lt;a href=&#34;https://www.sociology.ox.ac.uk/academic-staff/christiaan-monden.html&#34;&gt; Christiaan Monden&lt;/a&gt; (University of Oxford), &lt;a href=&#34;https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke&#34;&gt; Johannes Giesecke&lt;/a&gt; (Humboldt-Universität zu Berlin).&lt;/p&gt;
-
 &lt;p&gt;This project analyses the role of family demographic processes (leaving parental home, marriage, divorce, and parenthood) for the probability of being working poor and how it changes over the life course.&lt;/p&gt;
-
 &lt;p&gt;Publications in progress:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Struffolino E., Van Winkle Z., Family formation and union dissolution and in-work poverty: Gender differences across the life course in comparative perspective.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Struffolino E., Van Winkle Z., Polizzi A., Family-demographic processes and in-work poverty: A systematic review.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Van Winkle Z., Struffolino E., Parity and in-work poverty across the life course in comparative perspective.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino E., Van Winkle Z., Family formation and union dissolution and in-work poverty: Gender differences across the life course in comparative perspective.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino E., Van Winkle Z., Polizzi A., Family-demographic processes and in-work poverty: A systematic review.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Van Winkle Z., Struffolino E., Parity and in-work poverty across the life course in comparative perspective.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Organization of the workshop &amp;ldquo;Family demography, changing labour markets, and in-work poverty&amp;rdquo;, at Univesity of Oxford, May 14-15 - 2020.&lt;/p&gt;
-
 &lt;p&gt;Media coverage:&lt;/p&gt;
-
-&lt;p&gt;Interview for Humboldt-Universität Zeitung. &lt;a href= &#34;https://www.hu-berlin.de/de/pr/medien/publikationen/humboldt/2019-2020/humboldt-januar-2020&#34;&gt; &amp;ldquo;Arm trotz Arbeit [Working and yet poor]&amp;rdquo;&lt;/a&gt;, Jan 2020, Vol. 2, 2019-2020, p.10.&lt;/p&gt;
-
+&lt;p&gt;Interview for Humboldt-Universität Zeitung. &lt;a href= &#34;https://www.hu-berlin.de/de/pr/medien/publikationen/humboldt/2019-2020/humboldt-januar-2020&#34;&gt; &amp;ldquo;Arm trotz Arbeit [Working and yet poor]&amp;ldquo;&lt;/a&gt;, Jan 2020, Vol. 2, 2019-2020, p.10.&lt;/p&gt;
 &lt;p&gt;The project is funded by the &lt;em&gt;Oxford/Berlin Research Partnership - 2018&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -197,7 +228,6 @@
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/dissemination/larenzastruffolino2018/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Il 10 novembre molte città italiane saranno coinvolte in una mobilitazione nazionale partita dalle donne per chiedere il ritiro del disegno di legge Pillon che vorrebbe cancellare anni di femminismo. Due ricercatrici ci spiegano perché.&lt;/p&gt;
 </description>
     </item>
@@ -208,22 +238,22 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/project/project_3_it_drop/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.carloalberto.org/person/camilla-borgna/&#34;&gt;  Camilla Borgna&lt;/a&gt;  (Collegio Carlo Alberto, Turin)&lt;/p&gt;
-
 &lt;p&gt;Given the rising skill demands of the labor market, early school leavers constitute a vulnerable group in contemporary societies: young people who do not hold any kind of upper-secondary qualification tend to experience difficulties in transitioning to the first job and in later labor market integration. Early school leaving is also connected to other negative outcomes such as poor health and lack of civic and political participation. From a policy perspective, early school leaving can therefore be considered a “new social risk”, as recognized by the EU strategy for growth for which the reduction of early school leaving to less than 10% is one of the main five targets to be met until the year 2020.
 Not only is early school leaving connected to negative labor market outcomes, but it also tends to hit the social groups that are most vulnerable in terms of labor market integration: children with learning difficulties, coming from socio-economically disadvantaged families or who have access to limited educational resources. Hence, early school leaving exacerbates social inequalities.
 When it comes to gender, however, the definition of a vulnerable group may prove elusive, because while women still face labor market disadvantages in most industrialized societies, in terms of educational attainment they have caught up to men and, in many countries, even overtaken them.
 Together with Portugal and Spain, Italy is one of the EU countries with the greatest proportion of early school leavers. In this country, early school leaving has been steadily declining since the 1990s, when it reached percentages of 30% or more. However, as of today still 15% of young Italians leave education and training before completing the upper-secondary cycle. This phenomenon is therefore alarming, especially if we consider the increasing difficulties that Italian youth is facing in labor-market entry: it suffices to say that as of 2015 the youth unemployment rate reached 40%.
 Moreover, in Italy, gender disparities are particularly strong: on the one hand, women’s participation to the labor market is very low and, even among the young cohorts, the women who work are more likely than men to have atypical and poorly-paid jobs. On the other hand, the gender gap is reversed when it comes to education: young women outnumber men by three to two among tertiary graduates and boys are vastly overrepresented among the pupils who do not reach a basic level of competences in core subjects.&lt;/p&gt;
-
 &lt;p&gt;Publications in progress:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Struffolino E., Borgna C., &lt;em&gt;Who is really left behind? Gender differences in the school-to-work transition of
-low-skilled youth in Italy&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Borgna, C., Struffolino E., &lt;em&gt;Tempi difficili. Le condizioni occupazionali degli early school
+&lt;li&gt;
+&lt;p&gt;Struffolino E., Borgna C., &lt;em&gt;Who is really left behind? Gender differences in the school-to-work transition of
+low-skilled youth in Italy&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Borgna, C., Struffolino E., &lt;em&gt;Tempi difficili. Le condizioni occupazionali degli early school
 leavers in Italia prima e dopo la crisi&lt;/em&gt; [Hard times. Labor-market outcomes of early school leavers in Italy
-before and after the crisis]&lt;/p&gt;&lt;/li&gt;
+before and after the crisis]&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -285,13 +315,42 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Gender inequality in education and employment</title>
+      <link>/teaching/2018_hu_gender/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/teaching/2018_hu_gender/</guid>
+      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;The seminar will offer a comprehensive understanding of the role of gender inequality for education and employment from a social stratification perspective. Women’s roles have tremendously changed over the last century. In terms of educational attainment women have caught up to men and, in many countries, even overtaken them. Female students have long obtained higher grades than their male peers, they display more positive attitudes towards school, and have higher educational aspirations. However, in most industrialized societies gender disparities in the labour market and in the household endure. For example, women are disadvantaged compared to men with the same educational qualification both in terms of wage and contract duration, and they are more exposed to poverty risk when experiencing divorce or separation especially if poorly educated. The readings will examine the dynamics of gender inequality over the life-course and discuss how cumulative disadvantages mechanisms connect early age to later life outcomes in different domains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis in the social sciences. An introduction</title>
+      <link>/teaching/2018_sa_unitn/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/teaching/2018_sa_unitn/</guid>
+      <description>&lt;p&gt;Seminar, 12 hours/PhD level&lt;/p&gt;
+&lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The stratification of contraceptive use at first intercourse in Italy, 1950-2006</title>
       <link>/project/project_5_contraception/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/project/project_5_contraception/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://hannahzagel.com/&#34;&gt;  Hannah Zagel&lt;/a&gt; (Humboldt-Universität zu Berlin)&lt;/p&gt;
-
 &lt;p&gt;Previous research finds contraceptive use to be stratified both by social background and by gender. Analysing data from the “Survey on Italians’ Sexual Behavior” (2006), our study is the first to study these links in Italy. Looking at changes in contraceptive use at first intercourse before and after liberalization of family planning institutions in Italy, we find no difference by social background in the restrictive regulation period, but difference for young men in the liberal period. The probability of contraceptive use occurred for both young men and women, but women remain less likely to use contraception than their male counterparts even after liberalization. For studying the role of specific institutions, we included macro-level indicators for access to and information on contraception.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis in the social sciences. An introduction</title>
+      <link>/teaching/2018_sa_gesis/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/teaching/2018_sa_gesis/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
+&lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
 </description>
     </item>
     
@@ -321,6 +380,16 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>In-work poverty in Europe. Individual and family dynamics</title>
+      <link>/teaching/2017_hu_wp/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/teaching/2017_hu_wp/</guid>
+      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;The seminar offers a comprehensive understanding of in-work poverty in Europe. Working poor are individuals who are gainfully employed, but their salary or their household income is below the poverty threshold. Therefore, in-work poverty arises at intersection of labor market and poverty dynamics. On the one hand, individual resources are related to the likelihood of experiencing unfavourable labor market arrangements leading to poverty (e.g. low-wage or temporary contracts). On the other hand, specific family structure or family-life-course transitions are associated with different levels of households’ economic wellbeing. The seminar will examine how in-work poverty became a critical issue in the US first, and in Europe later. We will then discuss the theoretical and methodological challenges of defining and measuring in-work poverty. The prevalence of working poor over time and for specific social groups will be considered across welfare and labor market regimes. In a life-course perspective, special attention will be devoted to the generational and gender cleavages. Finally, implications for policies against in-work poverty will be discussed in light of both individual and household definitions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pushed or pulled? Girls and boys facing early school leaving risk in Italy</title>
       <link>/publication/borgnastruffolino2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -333,7 +402,7 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <link>/dissemination/struffolino2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>/dissemination/struffolino2016/</guid>
-      <description>&lt;p&gt;Outreach published on &lt;em&gt;WZB - Mitteilungen&lt;/em&gt; N. 153 &amp;ldquo;Familie 2016. Arbeit, Gesundheit und Partnerschaft im Kontext.&amp;rdquo; of the article &lt;em&gt;&amp;ldquo;Self-reported health among lone mothers in Switzerland. Do employment and education matter?&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Outreach published on &lt;em&gt;WZB - Mitteilungen&lt;/em&gt; N. 153 &amp;ldquo;Familie 2016. Arbeit, Gesundheit und Partnerschaft im Kontext.&amp;rdquo; of the article &lt;em&gt;&amp;ldquo;Self-reported health among lone mothers in Switzerland. Do employment and education matter?&amp;quot;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -360,7 +429,6 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       <guid>/dissemination/borgnastruffolino2015/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;Menabò di Etica &amp;amp; Economia&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;L’Italia è uno dei paesi europei con il tasso di abbandono scolastico più alto: quasi il 20% dei giovani italiani (il 5% in più rispetto alla media europea in base ai dati Eurostat) lascia la scuola senza conseguire un diploma di istruzione superiore. La riduzione dell’abbandono scolastico è uno dei cinque obiettivi chiave del piano decennale per la crescita dell’Unione Europea. Le autrici discutono le differenze territoriali in una prospettiva di genere.&lt;/p&gt;
 </description>
     </item>
@@ -371,8 +439,18 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
       <guid>/dissemination/borgnaetal2015/</guid>
       <description>&lt;p&gt;Published on nelMerito.com.  1.10.2015.&lt;/p&gt;
-
 &lt;p&gt;Questo contributo riprende 3 studi sulla discriminazione di genere di Mandrone e Radicchia (‘14), Borgna e Struffolino (‘14) e Fanfani (‘15) che, con metodiche differenti e partendo da punti di vista diversi, utilizzando i dati Isfol PLUS, giungono a verificare la presenza di una selezione sistematica di genere. Possiamo convenire che l’antidoto migliore per contrastare una qualsiasi di discriminazione è sostenere la cultura della diversità, nell’accezione dell’action plan della Commis-sione Europea di “diversity disclosure”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorial associated with the lecture “Family and demography”</title>
+      <link>/teaching/2015_2019_hu_gk/</link>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/teaching/2015_2019_hu_gk/</guid>
+      <description>&lt;p&gt;30 hours/B.A. level&lt;/p&gt;
+&lt;p&gt;Lecture by Anette Fasang und Gökçe Yurdakul&lt;/p&gt;
+&lt;p&gt;How are populations changing how are they related to family forms&amp;rsquo; dynamics? What urgent socio-political challenges arise from current population developments? This lecture introduces students to the BA in social demography and family sociology. These include micro-theories of family research, various methodological approaches to investigate family change, as well as the basics of social demography and demographic methods. In the course of the lecture, students acquire various theoretical approaches and empirical knowledge about families and populations in (East and West) Germany and consider them in a European and global comparison. Normative and ethical issues related to family and population analysis are also discussed.&lt;/p&gt;
 </description>
     </item>
     
@@ -386,13 +464,11 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -403,7 +479,6 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/dissemination/filandristruffolino2015/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;Il Menabó di Etica e Economia&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Emanuela Struffolino e Marianna Filandri commentano il recente report dell’Istat sulla povertà in Italia nel 2014. Le due autrici sottolineano, da un lato, il dato positivo del non peggioramento della povertà complessiva rispetto al 2013 e, dall’altro, la forte penalizzazione in termini di povertà assoluta e relativa di alcune famiglie e individui con particolari caratteristiche. In particolare, esse mettono in luce come le dimensioni della povertà possano sommarsi per la fascie più deboli determinando situazioni di svantaggio cumulativo.&lt;/p&gt;
 </description>
     </item>
@@ -414,7 +489,6 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/dissemination/filandristruffolino2016/</guid>
       <description>&lt;p&gt;Published on &lt;em&gt;&amp;ldquo;Menabò di Etica &amp;amp; Economia&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Marianna Filandri e Emanuela Struffolino esaminano gli effetti sulla disuguaglianza delle misure sulla casa contenute nella Legge di Stabilità del 2016. Dopo aver ricordato che in Italia la proprietà della casa è molto diffusa e, quindi, ad essa non è sempre associato uno stato di elevata prosperità e benessere, le autrici mostrano come, estendendo alcune esenzioni ai proprietari, la legge di Stabilità riproduca un sistema di diseguaglianze basate sulla proprietà che condizionerà negativamente le opportunità di molte famiglie e dei loro figli.&lt;/p&gt;
 </description>
     </item>
@@ -425,19 +499,23 @@ before and after the crisis]&lt;/p&gt;&lt;/li&gt;
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       <guid>/project/project_6_loneparents/</guid>
       <description>&lt;p&gt;With the research group &lt;em&gt;&amp;ldquo;Lone parenthood, vulnerability, and resources&amp;rdquo;&lt;/em&gt; at NCCR-LIVES &amp;ldquo;Overcoming vulnerability. A life-course perspective&amp;rdquo;&amp;rdquo; (University of Lausanne).&lt;/p&gt;
-
 &lt;p&gt;Outreach of publications related to this project&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;FORS (2019), &lt;a href=&#34;https://forscenter.ch/wp-content/uploads/2019/08/brochureannipsm_web.pdf&#34;&gt; How healthy are single mothers living in Switzerland?&lt;/a&gt; in &amp;ldquo;The achievements of the Swiss Household Panel. 20 years - Where did we come from and where will we go&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Struffolino E., Bernardi L., Voorpostel M. (2016), &lt;a href=&#34;https://www.skbf-csre.ch/pdf/18067.pdf&#34;&gt; Selbstberichteter Gesundheitszustand, Erwerbstatus und Bildungsniveau alleinerziehender Mütter&lt;/a&gt;, SKBF - Schweizerische Koordinationsstelle für Bildungsforschung, ISSN 1013-6258&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Struffolino E. (2016), &lt;a href=&#34;https://bibliothek.wzb.eu/artikel/2016/f-20082.pdf&#34;&gt; Mehrfach benachteiligt. Wie Bildung, Job und Einkommen die Gesundheit alleinerziehender Mütter in der Schweiz prägen&lt;/a&gt;, in “Familie 2016. Arbeit, Gesundheit und Partnerschaft im Kontext” WZB-Mitteilungen Nr. 153.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Struffolino, E. (2016), &lt;a href=&#34;http://www.schattenblick.de/infopool/sozial/fakten/ssffo150.html&gt; &amp;ldquo;Mehrfach benachteiligt. Wie Bildung, Job und Einkommen die Gesundheit alleinerziehender Mütter in der Schweiz prägen”&lt;/a&gt;, Elektronische Zeitung, Schattenblick.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Struffolino E., Bernardi L. (2016), &lt;a href=&#34;https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.350454.html&#34;&gt; One-parent households in Switzerland. Continuity and change over time&lt;/a&gt;, in Demos - Demographic information, ”Family, migration” - No. 1 June 2016. Neuchâtel. Swiss Federal Statistical Office.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FORS (2019), &lt;a href=&#34;https://forscenter.ch/wp-content/uploads/2019/08/brochureannipsm_web.pdf&#34;&gt; How healthy are single mothers living in Switzerland?&lt;/a&gt; in &amp;ldquo;The achievements of the Swiss Household Panel. 20 years - Where did we come from and where will we go&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino E., Bernardi L., Voorpostel M. (2016), &lt;a href=&#34;https://www.skbf-csre.ch/pdf/18067.pdf&#34;&gt; Selbstberichteter Gesundheitszustand, Erwerbstatus und Bildungsniveau alleinerziehender Mütter&lt;/a&gt;, SKBF - Schweizerische Koordinationsstelle für Bildungsforschung, ISSN 1013-6258&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino E. (2016), &lt;a href=&#34;https://bibliothek.wzb.eu/artikel/2016/f-20082.pdf&#34;&gt; Mehrfach benachteiligt. Wie Bildung, Job und Einkommen die Gesundheit alleinerziehender Mütter in der Schweiz prägen&lt;/a&gt;, in “Familie 2016. Arbeit, Gesundheit und Partnerschaft im Kontext” WZB-Mitteilungen Nr. 153.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino, E. (2016), &amp;lt;a href=&amp;quot;http://www.schattenblick.de/infopool/sozial/fakten/ssffo150.html&amp;gt; &amp;ldquo;Mehrfach benachteiligt. Wie Bildung, Job und Einkommen die Gesundheit alleinerziehender Mütter in der Schweiz prägen”&lt;/a&gt;, Elektronische Zeitung, Schattenblick.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Struffolino E., Bernardi L. (2016), &lt;a href=&#34;https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.350454.html&#34;&gt; One-parent households in Switzerland. Continuity and change over time&lt;/a&gt;, in Demos - Demographic information, ”Family, migration” - No. 1 June 2016. Neuchâtel. Swiss Federal Statistical Office.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
