@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Borgna C.</title>
       <link>/authors/borgna-c./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/borgna-c./</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Struffolino E.</title>
       <link>/authors/struffolino-e./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/struffolino-e./</guid>
       <description></description>
     </item>

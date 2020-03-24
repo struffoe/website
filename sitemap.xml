@@ -49,17 +49,27 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/borgna-c./</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dissemination/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/struffolino-e./</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/dissemination/struffolinoborgna2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,22 +83,12 @@
   </url>
   
   <url>
-    <loc>/dissemination/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/struffolino-e./</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -29,18 +29,18 @@
     </item>
     
     <item>
-      <title>Datacodes</title>
-      <link>/datacode/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/datacode/</guid>
+      <title>Disseminations</title>
+      <link>/dissemination/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/dissemination/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Disseminations</title>
-      <link>/dissemination/</link>
+      <title>Datacodes</title>
+      <link>/datacode/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/dissemination/</guid>
+      <guid>/datacode/</guid>
       <description></description>
     </item>
     
