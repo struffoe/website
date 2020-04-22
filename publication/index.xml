@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Early-career complexity before and after labour-market deregulation in Italy. Heterogeneity by gender and socio-economic status across cohorts</title>
+      <link>/publication/struffolinoraitano2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/struffolinoraitano2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did you realize your preferences for early retirement? Insights on the agency-within-structure mechanism across welfare regimes</title>
+      <link>/publication/struffolinozaccaria2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/struffolinozaccaria2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Who is really &#34;left behind&#34;? Half a century of gender differences in the school-to-work transitions of low-educated youth</title>
@@ -57,14 +73,6 @@
       <link>/publication/raabstruffolino2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/publication/raabstruffolino2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Did you realize your preferences for early retirement? Insights on the agency-within-structure mechanism across welfare regimes</title>
-      <link>/publication/struffolinozaccaria2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/struffolinozaccaria2019/</guid>
       <description></description>
     </item>
     

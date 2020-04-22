@@ -33,6 +33,31 @@
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/struffolinoraitano2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raitano-m./</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/struffolino-e./</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/teaching/2020_fu_lecture_culture/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -48,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/borgna-c./</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -63,13 +83,28 @@
   </url>
   
   <url>
-    <loc>/authors/struffolino-e./</loc>
+    <loc>/dissemination/struffolinoborgna2020/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/dissemination/struffolinoborgna2020/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <loc>/publication/struffolinozaccaria2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zaccaria-d./</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,21 +114,6 @@
   
   <url>
     <loc>/datacode/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,11 +174,6 @@
   
   <url>
     <loc>/dissemination/devillaraitanostruffolino2019/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/raitano-m./</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,17 +258,7 @@
   </url>
   
   <url>
-    <loc>/publication/struffolinozaccaria2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/borgnastruffolino2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/zaccaria-d./</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
