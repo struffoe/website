@@ -41,22 +41,22 @@
     </item>
     
     <item>
+      <title>Data Analysis using STATA</title>
+      <link>/teaching/2020_fu_stata/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/2020_fu_stata/</guid>
+      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
+&lt;p&gt;This seminar ’s objective is to provide an introduction into data analysis using the software Stata. Stata is a powerful and yet easy-to-use statistical package. During the seminar you will be introduced into working with Stata as well as discussing a variety of different analytical techniques. The seminar consists of five sessions. During the sessions we will discuss different analytical techniques and how to perform them in the Stata environment. Topics of these sessions are e.g. data management, working with Do-Files, linear regression analysis and how to include and interpret different kinds of explanatory variables to the models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>In-work poverty in Europe and in the US</title>
       <link>/teaching/2020_fu_wp/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/2020_fu_wp/</guid>
       <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;Working poor are individuals who are gainfully employed, but their household income is below the poverty threshold. Therefore, in-work poverty arises at intersection of labour market and family dynamics: on the one hand, individual resources are related to the likelihood of experiencing unfavourable labour market arrangements leading to poverty (e.g. low-wage or temporary contracts); on the other hand, specific family structure or family-life-course transitions (e.g., the birth of a child or divorce) are associated with different levels of households’ economic wellbeing. The seminar will examine how and why in-work poverty became a critical issue in the US and in Europe. The aim is to offers a comprehensive understanding of in-work poverty by, first, discussing the theoretical and methodological challenges of defining and measuring it. Second, we will consider the prevalence of working poor over time and across specific social groups will in different welfare and labor market regimes. Finally, we will discuss the implications of the characteristics of in-work poverty across countries for policy design.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to sequence analysis for studying the life course</title>
-      <link>/teaching/2020_fu_lifecourse/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/2020_fu_lifecourse/</guid>
-      <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
-&lt;p&gt;How similar are family life courses of individuals from different generations? Are younger workers experiencing more unsecure employment trajectories compare to their parents? How does the birth of a child influence mothers’ pathways of labor market participation in the long run in different countries? The seminar will, first, consider how empirical research has addressed these questions using sequence analysis to study the life course. Sequence analysis is a powerful set of analytical tools originally developed in biology to analyze strings of DNA that was introduced in the late 1980s in the social sciences to analyze temporal processes. Second, basic techniques to apply sequence analysis will be introduced with hands-on examples on. How to compare sequences that represents individual life-courses, how to group sequences to identify the typical patterns in the population, how to effectively visualize life courses, how to relate individual characteristics to how life courses unfolded over time.&lt;/p&gt;
 </description>
     </item>
     
