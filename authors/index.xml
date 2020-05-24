@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Raitano M.</title>
-      <link>/authors/raitano-m./</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/raitano-m./</guid>
+      <title>Bernardi L.</title>
+      <link>/authors/bernardi-l./</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/bernardi-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larenza O.</title>
+      <link>/authors/larenza-o./</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/larenza-o./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Struffolino E.</title>
       <link>/authors/struffolino-e./</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/struffolino-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raitano M.</title>
+      <link>/authors/raitano-m./</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/raitano-m./</guid>
       <description></description>
     </item>
     
@@ -107,22 +123,6 @@
       <link>/authors/raab-m./</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/raab-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Larenza O.</title>
-      <link>/authors/larenza-o./</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/larenza-o./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bernardi L.</title>
-      <link>/authors/bernardi-l./</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/bernardi-l./</guid>
       <description></description>
     </item>
     
