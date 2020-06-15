@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Filandri M.</title>
+      <link>/authors/filandri-m./</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/filandri-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molicchio E.</title>
+      <link>/authors/molicchio-e./</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/molicchio-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Struffolino E.</title>
+      <link>/authors/struffolino-e./</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/struffolino-e./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bernardi L.</title>
@@ -25,14 +49,6 @@
       <link>/authors/larenza-o./</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/larenza-o./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Struffolino E.</title>
-      <link>/authors/struffolino-e./</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/struffolino-e./</guid>
       <description></description>
     </item>
     
@@ -57,14 +73,6 @@
       <link>/authors/zaccaria-d./</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/zaccaria-d./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filandri M.</title>
-      <link>/authors/filandri-m./</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/filandri-m./</guid>
       <description></description>
     </item>
     

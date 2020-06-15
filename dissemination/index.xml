@@ -5,12 +5,22 @@
     <link>/dissemination/</link>
       <atom:link href="/dissemination/index.xml" rel="self" type="application/rss+xml" />
     <description>Disseminations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Disseminations</title>
       <link>/dissemination/</link>
     </image>
+    
+    <item>
+      <title>Emergenza Covid-19 e sistemi di welfare. Europa e Americhe a confronto - Germania</title>
+      <link>/dissemination/struffolino2020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/dissemination/struffolino2020/</guid>
+      <description>&lt;p&gt;Webinar - Emergenza Covid-19 e sistemi di welfare. Europa e Americhe a confronto&lt;/p&gt;
+&lt;p&gt;Organizzato dal Centro Interuniversitario di Ricerca Ezio Tarantelli (CIRET) e l’Associazione Etica ed Economia per discutere le misure di welfare introdotte o rafforzate in alcuni paesi europei e dell’America per far fronte all’emergenza.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Who has been really &#34;left behind&#34;? Gender differences in the labor market among early-school-leavers</title>
