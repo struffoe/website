@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morlicchio E. | Academic</title>
+    <link>/authors/morlicchio-e./</link>
+      <atom:link href="/authors/morlicchio-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Morlicchio E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Morlicchio E.</title>
+      <link>/authors/morlicchio-e./</link>
+    </image>
+    
+    <item>
+      <title>Poverty, work and households. Analytical perspective on the working poor and new indicators</title>
+      <link>/publication/filandrimorlicchiostruffolino2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/filandrimorlicchiostruffolino2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
