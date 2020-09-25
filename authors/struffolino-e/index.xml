@@ -66,6 +66,65 @@
     </item>
     
     <item>
+      <title>Family planning centres and doctors&#39;conscientious objection in Italy. Historical series by region - 1978-2017 - GESIS Repository SowiDataNet|datorium</title>
+      <link>/datacode/data1_familycenters/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/datacode/data1_familycenters/</guid>
+      <description>&lt;p&gt;Historical series of data from &lt;em&gt;&amp;ldquo;Relazione del Ministro della Salute sulla attuazione della legge contenente norme per la tutela sociale della maternitá e per l’interruzione volontaria di gravidanza - Legge 194 del 1978&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Starting from 1978, the Ministry of Justice and the Ministry of Health have the duty to compile every year a report on the implementation of the law for the protection of maternity and for the voluntary termination of pregnancy (Law n. 194, paragraph 6, May 22nd) to the Parliament. Originally, this report (Relazione del Ministro della salute sulla attuazione della legge contenente norme per la tutela sociale della maternità e per l’interruzione volontaria di gravidanza - Legge 194/78).&lt;/p&gt;
+&lt;p&gt;The reports were retrieved from the website &lt;a href=&#34;https://storia.camera.it/&#34;&gt; &lt;a href=&#34;https://storia.camera.it/&#34;&gt;https://storia.camera.it/&lt;/a&gt;&lt;/a&gt; and &lt;a href=&#34;http://www.salute.gov.it/portale/home.html&#34;&gt; &lt;a href=&#34;http://www.salute.gov.it/portale/home.html&#34;&gt;http://www.salute.gov.it/portale/home.html&lt;/a&gt;&lt;/a&gt;. Information on objecting doctors and on the family planning centres are missing for the years 1978, 1979 and 1980. For the year 1981 only data for the family planning centres was available. Furthermore, there was no data for the year 1996.&lt;/p&gt;
+&lt;p&gt;We provide a ready-to-use excel file that contains information retrieved from the reports 1978-2017 on the regional level and on the NUTS-1 level on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;number of gynaecologists [column Gynaecologists]&lt;/li&gt;
+&lt;li&gt;number of anaesthetists [column Anaesthetists]&lt;/li&gt;
+&lt;li&gt;number of paramedics [column Paramedics]&lt;/li&gt;
+&lt;li&gt;percentage of gynaecologists who refused abortions due to a moral reason [column Objecting Gynaecologists]&lt;/li&gt;
+&lt;li&gt;percentage of anaesthetists who refused abortions due to a moral reason [column Objecting Anaesthetists]&lt;/li&gt;
+&lt;li&gt;percentage of paramedics who refused abortions due to a moral reason [column Objecting Paramedics]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres in total [column Public Family Centres]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres per 10.000 women between 15 to 49 year-old [column Public Family Centres [per 10k women aged 15-49]]&lt;/li&gt;
+&lt;li&gt;number of public family planning centres per 20.000 inhabitants [column Public Family Centres [per 20k inhabitants]]&lt;/li&gt;
+&lt;li&gt;the number of private family planning centres [column Private Family Centres]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can donwload the data  &lt;a href=&#34;https://data.gesis.org/sharing/#!Detail/10.7802/1.2031&#34;&gt; here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@gmail.com&#34;&gt;emanuela.struffolino@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the data, please cite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gädecke, Martin; Struffolino, Emanuela; Zagel, Hannah (2020: Family planning centres and doctors&amp;rsquo; conscientious objection in Italy. Historical series by region. Version 1.0.0. WZB Berlin Social Science Center. Dataset.https://dx.doi.org/10.7802/1.2031&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic review on family demographic processes and in-work poverty - GESIS Repository SowiDataNet|datorium</title>
+      <link>/datacode/data2_iwpsysreview/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/datacode/data2_iwpsysreview/</guid>
+      <description>&lt;p&gt;Version 1.0.0. WZB Berlin Social Science Center. Dataset&lt;/p&gt;
+&lt;p&gt;This archive includes all data compiled in the course of a systematic review on the association between family demographic processes and in-work poverty that represents the empirical material used in the paper&lt;/p&gt;
+&lt;p&gt;Polizzi, Struffolino, Van Winkle. 2020. &amp;ldquo;Family Demographic Processes and In-Work Poverty. A Systematic Review.&amp;rdquo; SocArXiv &lt;a href=&#34;https://doi.org/10.31235/osf.io/zncaq&#34;&gt;https://doi.org/10.31235/osf.io/zncaq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The systematic review aims at locating empirical results on these associations within a common grid to summarize the findings with respect to five family demographic processes: parental home leaving, cohabitation, parenthood and subsequent births, union formation, and union dissolution. We concentrate on empirical studies on in-work poverty in OECD and EU-28 countries without any restriction on the year of publication.&lt;/p&gt;
+&lt;p&gt;In the first part of the systematic review, we provide a quantitative review of results from a comparative pool of cross-sectional analyses. In the second part of the systematic review, we perform a narrative review of the literature that pays special attention to recent research implementing a longitudinal design with household panel data and to alternative operationalizations of pivotal variables.&lt;/p&gt;
+&lt;p&gt;The methods report provides detailed information on all files included in the archive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@gmail.com&#34;&gt;emanuela.struffolino@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the data, please cite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Polizzi, Antonino; Struffolino, Emanuela; van Winkle, Zachary (2020): Systematic review on family demographic processes and in-work poverty. Version 1.0.0. WZB Berlin Social Science Center. Dataset. &lt;a href=&#34;https://doi.org/10.7802/2041&#34;&gt;https://doi.org/10.7802/2041&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Who is really &#34;left behind&#34;? Half a century of gender differences in the school-to-work transitions of low-educated youth</title>
       <link>/publication/struffolinoborgna2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
