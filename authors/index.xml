@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Lersch P.</title>
+      <link>/authors/lersch-p./</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/lersch-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Struffolino E.</title>
+      <link>/authors/struffolino-e./</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/struffolino-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitali A.</title>
+      <link>/authors/vitali-a./</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/vitali-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fasang A.</title>
+      <link>/authors/fasang-a./</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/fasang-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fasang A.E.</title>
+      <link>/authors/fasang-a.e./</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/fasang-a.e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jalovaara M.</title>
+      <link>/authors/jalovaara-m./</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jalovaara-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kailaheimo-Lönnqvist S.</title>
+      <link>/authors/kailaheimo-lonnqvist-s./</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/kailaheimo-lonnqvist-s./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Filandri M.</title>
@@ -29,10 +85,18 @@
     </item>
     
     <item>
-      <title>Struffolino E.</title>
-      <link>/authors/struffolino-e./</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/struffolino-e./</guid>
+      <title>Zagel H.</title>
+      <link>/authors/zagel-h./</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/zagel-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gädecke M.</title>
+      <link>/authors/gadecke-m./</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/gadecke-m./</guid>
       <description></description>
     </item>
     
@@ -77,14 +141,6 @@
     </item>
     
     <item>
-      <title>Gädecke M.</title>
-      <link>/authors/gadecke-m./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/gadecke-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Polizzi A.</title>
       <link>/authors/polizzi-a./</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -97,14 +153,6 @@
       <link>/authors/van-winkle-z./</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/van-winkle-z./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zagel H.</title>
-      <link>/authors/zagel-h./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/zagel-h./</guid>
       <description></description>
     </item>
     
@@ -137,7 +185,11 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently guest Professor of Social Policy (W2 Vertretungsprofessur) at the &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/sozpolsoz/team/1693053&gt; Humboldt-Universität zu Berlin, Institute of Social Sciences&lt;/a&gt;. Between April and September 2020, I was guest Professor of Macrosociology (W3 Vertretungsprofessur) at the &lt;a href= https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/makrosoziologie/mitarbeiter/lehrstuhlinhaber/emanuela-struffolino.html &gt; Institute of Sociology at the Freie Universität Berlin &lt;/a&gt;. I am long-term guest researcher at the research unit &lt;a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets &gt; &amp;ldquo;Skill Formation and Labor Markets&amp;quot;&lt;/a&gt; at the &lt;a href= https://wzb.eu/de &gt; WZB Berlin Social Science Center&lt;/a&gt;. Between 2015 and 2019 I was a postdoctoral fellow at research group &lt;a href= https://wzb.eu/de/news/demography-and-inequality &gt; &amp;ldquo;Demography and Inequality&amp;quot;&lt;/a&gt; Research Group at the WZB. I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;quot;&lt;/a&gt; at the University of Lausanne. My research interests include life-course sociology, gender inequalities in the labor market, social stratification dynamics, poverty, and methods for longitudinal data. I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently co-PI of the project &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/forschung/kompakk_de&gt; KOMPAKK-Household structures and economic risks in East and West Germany during the COVID-19 pandemic: compensation or accumulation?&lt;/a&gt; at the Humboldt-Universität zu Berlin, Institute of Social Sciences.&lt;/p&gt;
+&lt;p&gt;Between October 2020 and March 2021, I was guest Professor of Social Policy (W2 Vertretungsprofessur) at the &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/sozpolsoz/team/1693053&gt; Humboldt-Universität zu Berlin&lt;/a&gt;. Between April and September 2020, I was guest Professor of Macrosociology (W3 Vertretungsprofessur) at the Institute of Sociology at the &lt;a href= https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/makrosoziologie/mitarbeiter/lehrstuhlinhaber/emanuela-struffolino.html &gt; Freie Universität Berlin &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From 2015 to 2019 I was a postdoctoral fellow at research group &lt;a href= https://wzb.eu/de/news/demography-and-inequality &gt; &amp;ldquo;Demography and Inequality&amp;quot;&lt;/a&gt; Research Group at the WZB and then at the the research unit &lt;a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets &gt; &amp;ldquo;Skill Formation and Labor Markets&amp;quot;&lt;/a&gt; at the &lt;a href= https://wzb.eu/de &gt; WZB Berlin Social Science Center&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;quot;&lt;/a&gt; at the University of Lausanne.&lt;/p&gt;
+&lt;p&gt;I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;On this website, you can find information on my publications and ongoing research.&lt;/p&gt;
 </description>
     </item>
@@ -147,14 +199,6 @@
       <link>/authors/raab-m./</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/raab-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fasang A.</title>
-      <link>/authors/fasang-a./</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/fasang-a./</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fasang A.E. | Academic</title>
+    <link>/authors/fasang-a.e./</link>
+      <atom:link href="/authors/fasang-a.e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Fasang A.E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fasang A.E.</title>
+      <link>/authors/fasang-a.e./</link>
+    </image>
+    
+    <item>
+      <title>Is parental divorce homogamy associated with a higher risk of separation from cohabitation and marriage?</title>
+      <link>/publication/2021kailaheimoetal/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021kailaheimoetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KOMPAKK index of occupantions’ teleworkability in Germany</title>
+      <link>/datacode/data4_kompakk_telework/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/datacode/data4_kompakk_telework/</guid>
+      <description>&lt;p&gt;“Telework”, “home office” and “work from home” have recently become very prominent working concepts due to social distancing regulations during the COVID-19 pandemic. According to a study by Kohlrausch and Zucco (2020), in Germany the share of people who mainly work from home has increased from about 4% before the pandemic to approx. 20% during the first wave of the pandemic. Furthermore, the share of workers who alternate between business and home office also increased. In this development, telework was not equally distributed across all occupational and social groups.
+With the project “Household structures and economic risks in East and West Germany during the COVID-19 pandemic: compensation or accumulation? (KOMPAKK)” we define economic risks that people were exposed to due to the COVID-19 pandemic. We therefore calculate several risk factors based on survey data from 2017 and 2018.
+As some occupations might be well executed from home while others are not, we created an index which reflects the possibility of working from home.&lt;/p&gt;
+&lt;p&gt;You can donwload the data  &lt;a href=&#34;https://doi.org/10.7802/2263&#34;&gt; GESIS Repository SowiDataNet|datorium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@hu-berlin.de&#34;&gt;emanuela.struffolino@hu-berlin.de&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the data, please cite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gädecke, Martin, Struffolino, Emanuela, Zagel, Hannah, Fasang, Anette (2021): KOMPAKK index of occupations’ teleworkability in Germany. SowiDataNet|datorium - GESIS Data Archive, Cologne. Version 1.0.0. Dataset. DOI:  &lt;a href=&#34;https://doi.org/10.7802/2263&#34;&gt;https://doi.org/10.7802/2263&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KOMPAKK index of economic sectors closure during the first wave of COVID-19</title>
+      <link>/datacode/data3_kompakkclosure/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/datacode/data3_kompakkclosure/</guid>
+      <description>&lt;p&gt;The “KOMPAKK index of economic sectors closure during the first wave of COVID-19” is a dataset on the German federal state-specific sector closures compiled from the original state decrees (March/April 2020).&lt;/p&gt;
+&lt;p&gt;A large and growing number of studies shows the severe social and economic consequences of the governmental measures introduced to reduce the spread of the Covid-19 virus in March and April 2020 in Germany. However, we still lack a systematic analysis of intra-German differences in regulations and outcomes. The German federalist system leaves decisions over the implementation of decrees by the federal government to the federal states. This meant that the 16 states issued individual decrees over economic sector closure and social distancing measures during the course of the pandemic.&lt;/p&gt;
+&lt;p&gt;We retrieved all decrees issued from 15.03.2020 to 17.04.2020 from the official website of each of the 16 federal states of Germany. To relate the economic sectors mentioned in the decrees to an international comparable system, we used the NACE rev. 2 classification (NACE = fr.: Nomenclature statistique des activités économiques dans la Communauté européenne).&lt;/p&gt;
+&lt;p&gt;You can donwload the data from the &lt;a href=&#34;https://data.gesis.org/sharing/#!Detail/10.7802/2247&#34;&gt; GESIS Repository SowiDataNet|datorium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@hu-berlin.de&#34;&gt;emanuela.struffolino@hu-berlin.de&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the data, please cite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gädecke M., Zagel H., Struffolino E., Fasang A.F. (2021), KOMPAKK index of economic sectors closure
+during the first wave of COVID-19, Version 1.0.0. SowiDataNet|datorium - Humboldt-University Berlin.
+Dataset. - &lt;a href=&#34;https://doi.org/10.7802/2247&#34;&gt;https://doi.org/10.7802/2247&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
