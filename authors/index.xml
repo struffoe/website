@@ -2,276 +2,284 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Emanuela Struffolino</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://www.emanuela-struffolino.com/authors/</link>
     </image>
     
     <item>
-      <title>Lersch P.</title>
-      <link>/authors/lersch-p./</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/lersch-p./</guid>
+      <title>Raab M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/raab-m./</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/raab-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Struffolino E.</title>
-      <link>/authors/struffolino-e./</link>
+      <link>https://www.emanuela-struffolino.com/authors/struffolino-e./</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/struffolino-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lersch P.</title>
+      <link>https://www.emanuela-struffolino.com/authors/lersch-p./</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/struffolino-e./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/lersch-p./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vitali A.</title>
-      <link>/authors/vitali-a./</link>
+      <link>https://www.emanuela-struffolino.com/authors/vitali-a./</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/vitali-a./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/vitali-a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fasang A.</title>
-      <link>/authors/fasang-a./</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/fasang-a./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/fasang-a./</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/fasang-a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fasang A.E.</title>
-      <link>/authors/fasang-a.e./</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/fasang-a.e./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/fasang-a.e./</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/fasang-a.e./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jalovaara M.</title>
-      <link>/authors/jalovaara-m./</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/jalovaara-m./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/jalovaara-m./</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/jalovaara-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kailaheimo-Lönnqvist S.</title>
-      <link>/authors/kailaheimo-lonnqvist-s./</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/kailaheimo-lonnqvist-s./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/kailaheimo-lonnqvist-s./</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/kailaheimo-lonnqvist-s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filandri M.</title>
-      <link>/authors/filandri-m./</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/filandri-m./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/filandri-m./</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/filandri-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morlicchio E.</title>
-      <link>/authors/morlicchio-e./</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/morlicchio-e./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zagel H.</title>
-      <link>/authors/zagel-h./</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/zagel-h./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gädecke M.</title>
-      <link>/authors/gadecke-m./</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/gadecke-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bernardi L.</title>
-      <link>/authors/bernardi-l./</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/bernardi-l./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Larenza O.</title>
-      <link>/authors/larenza-o./</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/larenza-o./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raitano M.</title>
-      <link>/authors/raitano-m./</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/raitano-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Borgna C.</title>
-      <link>/authors/borgna-c./</link>
-      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/borgna-c./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zaccaria D.</title>
-      <link>/authors/zaccaria-d./</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/zaccaria-d./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polizzi A.</title>
-      <link>/authors/polizzi-a./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/polizzi-a./</guid>
+      <link>https://www.emanuela-struffolino.com/authors/morlicchio-e./</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/morlicchio-e./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Van Winkle Z.</title>
-      <link>/authors/van-winkle-z./</link>
+      <link>https://www.emanuela-struffolino.com/authors/van-winkle-z./</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/van-winkle-z./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zagel H.</title>
+      <link>https://www.emanuela-struffolino.com/authors/zagel-h./</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/zagel-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaedecke M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/gaedecke-m./</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/gaedecke-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gädecke M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/gadecke-m./</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/gadecke-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernardi L.</title>
+      <link>https://www.emanuela-struffolino.com/authors/bernardi-l./</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/bernardi-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larenza O.</title>
+      <link>https://www.emanuela-struffolino.com/authors/larenza-o./</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/larenza-o./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raitano M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/raitano-m./</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/raitano-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borgna C.</title>
+      <link>https://www.emanuela-struffolino.com/authors/borgna-c./</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/borgna-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zaccaria D.</title>
+      <link>https://www.emanuela-struffolino.com/authors/zaccaria-d./</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/zaccaria-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polizzi A.</title>
+      <link>https://www.emanuela-struffolino.com/authors/polizzi-a./</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/van-winkle-z./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/polizzi-a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paqua S.</title>
-      <link>/authors/paqua-s./</link>
+      <link>https://www.emanuela-struffolino.com/authors/paqua-s./</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paqua-s./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/paqua-s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devillanova C.</title>
-      <link>/authors/devillanova-c./</link>
+      <link>https://www.emanuela-struffolino.com/authors/devillanova-c./</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/devillanova-c./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/devillanova-c./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devilannova C.</title>
-      <link>/authors/devilannova-c./</link>
+      <link>https://www.emanuela-struffolino.com/authors/devilannova-c./</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/devilannova-c./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/devilannova-c./</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://www.emanuela-struffolino.com/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/admin/</guid>
       <description>&lt;p&gt;Since June 2021, I am Assistant Professor of Economic Sociology at the &lt;a href= https://www.unimi.it/it/ugov/person/emanuela-struffolino&gt; University of Milan, Department of Social and Political Sciences&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I am also co-PI of the project &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/forschung/kompakk_de&gt; KOMPAKK-Household structures and economic risks in East and West Germany during the COVID-19 pandemic: compensation or accumulation?&lt;/a&gt; hosted at at the Humboldt-Universität zu Berlin, Institute of Social Sciences.&lt;/p&gt;
+&lt;p&gt;I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt; since 2018. In January 2022, I joined the Editorial Team of the &lt;a href= https://ubp.uni-bamberg.de/jfr/index.php/jfr&gt; Journal of Family Research&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Between September 2020 and Novembre 2021 I was co-PI of the project &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/forschung/kompakk_de&gt; KOMPAKK-Household structures and economic risks in East and West Germany during the COVID-19 pandemic: compensation or accumulation?&lt;/a&gt; hosted at at the Humboldt-Universität zu Berlin, Institute of Social Sciences.&lt;/p&gt;
 &lt;p&gt;Between October 2020 and March 2021, I was guest Professor of Social Policy (W2 Vertretungsprofessur) at the &lt;a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/sozpolsoz/team/1693053&gt; Humboldt-Universität zu Berlin&lt;/a&gt;. Between April and September 2020, I was guest Professor of Macrosociology (W3 Vertretungsprofessur) at the Institute of Sociology at the &lt;a href= https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/makrosoziologie/mitarbeiter/lehrstuhlinhaber/emanuela-struffolino.html &gt; Freie Universität Berlin &lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;From 2015 to 2019 I was a postdoctoral fellow at research group &lt;a href= https://wzb.eu/de/news/demography-and-inequality &gt; &amp;ldquo;Demography and Inequality&amp;quot;&lt;/a&gt; Research Group and then at the the research unit &lt;a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets &gt; &amp;ldquo;Skill Formation and Labor Markets&amp;quot;&lt;/a&gt; at the &lt;a href= https://wzb.eu/de &gt; WZB Berlin Social Science Center&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;quot;&lt;/a&gt; at the University of Lausanne.&lt;/p&gt;
-&lt;p&gt;I am a member of the Executive Board of the &lt;a href= https://sequenceanalysis.org/ &gt; SAA-Sequence Analysis Association &lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;On this website, you can find information on my publications and ongoing research.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Raab M.</title>
-      <link>/authors/raab-m./</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/raab-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Milewski N.</title>
-      <link>/authors/milewski-n./</link>
+      <link>https://www.emanuela-struffolino.com/authors/milewski-n./</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/milewski-n./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/milewski-n./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mortelmans D.</title>
-      <link>/authors/mortelmans-d./</link>
+      <link>https://www.emanuela-struffolino.com/authors/mortelmans-d./</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/mortelmans-d./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/mortelmans-d./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studer M.</title>
-      <link>/authors/studer-m./</link>
+      <link>https://www.emanuela-struffolino.com/authors/studer-m./</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/studer-m./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/studer-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voorpostel M.</title>
-      <link>/authors/voorpostel-m./</link>
+      <link>https://www.emanuela-struffolino.com/authors/voorpostel-m./</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/voorpostel-m./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/voorpostel-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fanfani B.</title>
-      <link>/authors/fanfani-b./</link>
+      <link>https://www.emanuela-struffolino.com/authors/fanfani-b./</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/fanfani-b./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/fanfani-b./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mandrone E.</title>
-      <link>/authors/mandrone-e./</link>
+      <link>https://www.emanuela-struffolino.com/authors/mandrone-e./</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/mandrone-e./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/mandrone-e./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radicchia D.</title>
-      <link>/authors/radicchia-d./</link>
+      <link>https://www.emanuela-struffolino.com/authors/radicchia-d./</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/radicchia-d./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/radicchia-d./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <link>https://www.emanuela-struffolino.com/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/robert-ford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filandi M.</title>
-      <link>/authors/filandi-m./</link>
+      <link>https://www.emanuela-struffolino.com/authors/filandi-m./</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/filandi-m./</guid>
+      <guid>https://www.emanuela-struffolino.com/authors/filandi-m./</guid>
       <description></description>
     </item>
     

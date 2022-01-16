@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Emanuela Struffolino</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/project/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://www.emanuela-struffolino.com/project/</link>
     </image>
     
     <item>
       <title>KOMPAKK - Household constellations and socio-economic risk during the COVID-19 pandemic in East and West Germany. Compensation or accumulation?</title>
-      <link>/project/project_0_kompakk/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_0_kompakk/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/project_0_kompakk/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_0_kompakk/</guid>
       <description>&lt;p&gt;KOMPAKK - Haushaltsstrukturen und Ökonomische Risiken während der COVID-19 Pandemie in Ost und Westdeutschland. Kompensation oder Akkumulation? (Household constellations and socio-economic risk during the COVID-19 pandemic in East and West Germany. Compensation
 or accumulation?)&lt;/p&gt;
 &lt;p&gt;Financed by Bundesministerium für Arbeit und Soziales, Fördernetzwerk Interdisziplinäre Sozialpolitikforschung e Gesellschaft für soziale Unternehmensberatung mbH (73.000 Euros)&lt;/p&gt;
@@ -39,23 +39,10 @@ or accumulation?)&lt;/p&gt;
     </item>
     
     <item>
-      <title>An introduction to Sequence Analysis</title>
-      <link>/project/project_1_sabook/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project_1_sabook/</guid>
-      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
-&lt;p&gt;In preparation for the SAGE&amp;rsquo;s Quantitative Applications in the Social Sciences (QASS)&lt;/p&gt;
-&lt;p&gt;How does the school-to-work transition process look like in different countries? Do individual electoral participation pattern differ across context with varying degrees of residential segregation? How similar are employment biographies across cohorts of workers who entered the labor market before and after the recent economic crisis? Do democratization processes differ depending on the pathways of turnover between rightist and leftist parties? Answering these research questions requires the application of analysis tools that capture how processes unfold over time. Within the toolkit of longitudinal methods, we consider social sequence analysis to be one of the most powerful and versatile ones – particularly when it comes to studying longitudinal categorical data.&lt;/p&gt;
-&lt;p&gt;Sequence analysis was introduced in the social sciences in the 1980s. Andrew Abbott, inspired by the treatment of DNA strings in biology, developed it as a technique to study social processes that unfold over time as sequences of events (Abbott &amp;amp; Forrest, 1986). Sequence analysis has gained increasing attention as the recent widespread availability of longitudinal data made it possible to address sequence-oriented questions. The mainstream application of sequence analysis relies on optimal matching techniques to measure the distance between sequences that represent the individual realization of a certain process and on the clustering of such sequences to identify typical trajectories. Regression analysis is often applied as a second step to investigate why (and not only how) sequences resemble or differ from each other. In the last ten years, several innovations have been introduced to overcome weaknesses and limitation of the initial proposition. A sequence analysis introductory book is currently missing in the QASS series. Therefore, the book will complement the rich catalogue of the QASS series with an up-to-date introduction to a technique that is steadily gaining popularity.&lt;/p&gt;
-&lt;p&gt;Several statistical software tools made it available to a broader public. However, existing publications on sequence analysis that might serve the purpose of teaching and learning its basics, are scattered across several journal articles, books, and software documentations. This makes it hard for newcomers to figure out where to start and to identify good practices for performing methodologically sound analyses. To answer these needs, the book introduces the basics of sequence analysis to guide practitioners and support instructors along the working flow of sequence analysis. The presentation of statistical, substantive, and theoretical foundations will be enriched by examples to help the reader in understanding the advantages and disadvantages of specific analytical choices. The extensive ancillary material will support self-learning by offering exercises and solutions based on real data and research questions in the field of life course research. Finally, the book will include practical guidelines considering recent advances and innovations in sequence analysis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Uncovering precarious employment over the life-course. The role of indicators in survey questionnaires</title>
-      <link>/project/project_6_survey/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_6_survey/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project_6_survey/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_6_survey/</guid>
       <description>&lt;p&gt;With &lt;a href=https://slavefreetrade.org/&gt;  Martina Carlino&lt;/a&gt; (NGO slavefreetrade)&lt;/p&gt;
 &lt;p&gt;Identifying the right indicators, which work as proxies of the various dimensions of the phenomenon under study, is of crucial importance when collecting and analysing primary source data. The aim of this collaboration is to explore direct and indirect indicators of precarious employment over the life-course that can be employed to gather reliable data through survey questionnaires and, eventually, unveil forms of professional abuse.&lt;/p&gt;
 </description>
@@ -63,9 +50,9 @@ or accumulation?)&lt;/p&gt;
     
     <item>
       <title>Heuristics for validation and visualization in Sequence Analysis</title>
-      <link>/project/project_4_methods/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_4_methods/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project_4_methods/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_4_methods/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;http://faculty.unibocconi.eu/raffaellapiccarreta/&#34;&gt;  Raffaella Piccarreta&lt;/a&gt; (Bocconi University, Milan)&lt;/p&gt;
 &lt;p&gt;Publications in progress:&lt;/p&gt;
 &lt;ul&gt;
@@ -81,9 +68,9 @@ or accumulation?)&lt;/p&gt;
     
     <item>
       <title>Understanding Family Demographic Processes and In-Work Poverty in Europe</title>
-      <link>/project/project_2_oxber/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_2_oxber/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_2_oxber/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_2_oxber/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.zachary-vanwinkle.com/&#34;&gt;  Zachary van Winkle&lt;/a&gt; (University of Oxford), &lt;a href=&#34;https://www.sociology.ox.ac.uk/academic-staff/christiaan-monden.html&#34;&gt; Christiaan Monden&lt;/a&gt; (University of Oxford), &lt;a href=&#34;https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke&#34;&gt; Johannes Giesecke&lt;/a&gt; (Humboldt-Universität zu Berlin).&lt;/p&gt;
 &lt;p&gt;This project analyses the role of family demographic processes (leaving parental home, marriage, divorce, and parenthood) for the probability of being working poor and how it changes over the life course.&lt;/p&gt;
 &lt;p&gt;Publications in progress:&lt;/p&gt;
@@ -107,9 +94,9 @@ or accumulation?)&lt;/p&gt;
     
     <item>
       <title>Gender differences in early school leaving. Academic performance, family resources, and labor-market opportunities.</title>
-      <link>/project/project_3_it_drop/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_3_it_drop/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_3_it_drop/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_3_it_drop/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://www.carloalberto.org/person/camilla-borgna/&#34;&gt;  Camilla Borgna&lt;/a&gt;  (Collegio Carlo Alberto, Turin)&lt;/p&gt;
 &lt;p&gt;Given the rising skill demands of the labor market, early school leavers constitute a vulnerable group in contemporary societies: young people who do not hold any kind of upper-secondary qualification tend to experience difficulties in transitioning to the first job and in later labor market integration. Early school leaving is also connected to other negative outcomes such as poor health and lack of civic and political participation. From a policy perspective, early school leaving can therefore be considered a “new social risk”, as recognized by the EU strategy for growth for which the reduction of early school leaving to less than 10% is one of the main five targets to be met until the year 2020.
 Not only is early school leaving connected to negative labor market outcomes, but it also tends to hit the social groups that are most vulnerable in terms of labor market integration: children with learning difficulties, coming from socio-economically disadvantaged families or who have access to limited educational resources. Hence, early school leaving exacerbates social inequalities.
@@ -133,9 +120,9 @@ before and after the crisis]&lt;/p&gt;
     
     <item>
       <title>The stratification of contraceptive use at first intercourse in Italy, 1950-2006</title>
-      <link>/project/project_5_contraception/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_5_contraception/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/project/project_5_contraception/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_5_contraception/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://hannahzagel.com/&#34;&gt;  Hannah Zagel&lt;/a&gt; (Humboldt-Universität zu Berlin)&lt;/p&gt;
 &lt;p&gt;Previous research finds contraceptive use to be stratified both by social background and by gender. Analysing data from the “Survey on Italians’ Sexual Behavior” (2006), our study is the first to study these links in Italy. Looking at changes in contraceptive use at first intercourse before and after liberalization of family planning institutions in Italy, we find no difference by social background in the restrictive regulation period, but difference for young men in the liberal period. The probability of contraceptive use occurred for both young men and women, but women remain less likely to use contraception than their male counterparts even after liberalization. For studying the role of specific institutions, we included macro-level indicators for access to and information on contraception.&lt;/p&gt;
 </description>
@@ -143,9 +130,9 @@ before and after the crisis]&lt;/p&gt;
     
     <item>
       <title>Lone parenthood - Family and labor market dynamics in a life course perspective</title>
-      <link>/project/project_7_loneparents/</link>
+      <link>https://www.emanuela-struffolino.com/project/project_7_loneparents/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>/project/project_7_loneparents/</guid>
+      <guid>https://www.emanuela-struffolino.com/project/project_7_loneparents/</guid>
       <description>&lt;p&gt;With the research group &lt;em&gt;&amp;ldquo;Lone parenthood, vulnerability, and resources&amp;rdquo;&lt;/em&gt; at NCCR-LIVES &amp;ldquo;Overcoming vulnerability. A life-course perspective&amp;rdquo;&amp;rdquo; (University of Lausanne).&lt;/p&gt;
 &lt;p&gt;Outreach of publications related to this project&lt;/p&gt;
 &lt;ul&gt;

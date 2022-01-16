@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Van Winkle Z. | Emanuela Struffolino</title>
-    <link>/authors/van-winkle-z./</link>
-      <atom:link href="/authors/van-winkle-z./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/van-winkle-z./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/van-winkle-z./index.xml" rel="self" type="application/rss+xml" />
     <description>Van Winkle Z.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Van Winkle Z.</title>
-      <link>/authors/van-winkle-z./</link>
+      <link>https://www.emanuela-struffolino.com/authors/van-winkle-z./</link>
     </image>
     
     <item>
+      <title>Gender and race differences in pathways out of in-work poverty in the US</title>
+      <link>https://www.emanuela-struffolino.com/publication/2021struffolinovanwinkle/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021struffolinovanwinkle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic review on family demographic processes and in-work poverty</title>
-      <link>/datacode/data2_iwpsysreview/</link>
+      <link>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/datacode/data2_iwpsysreview/</guid>
+      <guid>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</guid>
       <description>&lt;p&gt;Version 1.0.0. WZB Berlin Social Science Center. Dataset&lt;/p&gt;
 &lt;p&gt;This archive includes all data compiled in the course of a systematic review on the association between family demographic processes and in-work poverty that represents the empirical material used in the paper&lt;/p&gt;
 &lt;p&gt;Polizzi, Struffolino, Van Winkle. 2020. &amp;ldquo;Family Demographic Processes and In-Work Poverty. A Systematic Review.&amp;rdquo; SocArXiv &lt;a href=&#34;https://doi.org/10.31235/osf.io/zncaq&#34;&gt;https://doi.org/10.31235/osf.io/zncaq&lt;/a&gt;&lt;/p&gt;
@@ -39,18 +47,18 @@
     
     <item>
       <title>Wege aus der Erwerbsarmut in den USA [Pathways out of in-work poverty in the US]</title>
-      <link>/dissemination/struffolinovanwinkle2019/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinovanwinkle2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2019/</guid>
       <description>&lt;p&gt;Published in the &lt;em&gt;WZB-Mitteilungen Nr. 164&lt;/em&gt;, in the special issue &lt;em&gt;&amp;ldquo;Es wird eng. Ein Heft über die Vereinigten Staaten von Amerika&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lavoratrici ma povere [Women who work but are poor]</title>
-      <link>/dissemination/struffolinovanwinkle2018/</link>
+      <link>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2018/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/dissemination/struffolinovanwinkle2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/dissemination/struffolinovanwinkle2018/</guid>
       <description>&lt;p&gt;Outreach of the article &lt;em&gt;&amp;ldquo;When working isn&amp;rsquo;t enough. Family Demographic Process and In-Work Poverty across the Life Course in the United States&amp;rdquo;&lt;/em&gt; published on &lt;em&gt;InGenere.it - Dati, Politiche, Questioni di Genere&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Non basta il lavoro per scampare il rischio di povertà. Uno studio sugli Stati Uniti spiega come redditi bassi e transizioni familiari incidono sulla vita delle donne, soprattutto se non hanno la pelle bianca.&lt;/p&gt;
 </description>
@@ -58,9 +66,9 @@
     
     <item>
       <title>When Working Isn’t Enough. Family Demographic Process and In-Work Poverty across the Life Course in the United States</title>
-      <link>/publication/2018vanwinklestruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018vanwinklestruffolino2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018vanwinklestruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018vanwinklestruffolino2018/</guid>
       <description></description>
     </item>
     

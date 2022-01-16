@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polizzi A. | Emanuela Struffolino</title>
-    <link>/authors/polizzi-a./</link>
-      <atom:link href="/authors/polizzi-a./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/polizzi-a./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/polizzi-a./index.xml" rel="self" type="application/rss+xml" />
     <description>Polizzi A.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Polizzi A.</title>
-      <link>/authors/polizzi-a./</link>
+      <link>https://www.emanuela-struffolino.com/authors/polizzi-a./</link>
     </image>
     
     <item>
       <title>Systematic review on family demographic processes and in-work poverty</title>
-      <link>/datacode/data2_iwpsysreview/</link>
+      <link>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/datacode/data2_iwpsysreview/</guid>
+      <guid>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</guid>
       <description>&lt;p&gt;Version 1.0.0. WZB Berlin Social Science Center. Dataset&lt;/p&gt;
 &lt;p&gt;This archive includes all data compiled in the course of a systematic review on the association between family demographic processes and in-work poverty that represents the empirical material used in the paper&lt;/p&gt;
 &lt;p&gt;Polizzi, Struffolino, Van Winkle. 2020. &amp;ldquo;Family Demographic Processes and In-Work Poverty. A Systematic Review.&amp;rdquo; SocArXiv &lt;a href=&#34;https://doi.org/10.31235/osf.io/zncaq&#34;&gt;https://doi.org/10.31235/osf.io/zncaq&lt;/a&gt;&lt;/p&gt;

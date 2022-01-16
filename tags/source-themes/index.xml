@@ -2,101 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Emanuela Struffolino</title>
-    <link>/tags/source-themes/</link>
-      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/tags/source-themes/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://www.emanuela-struffolino.com/tags/source-themes/</link>
     </image>
     
     <item>
+      <title>Sequence Analysis</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Special Issue &#34;Wealth in couples&#34;</title>
-      <link>/publication/2022lerschvitalistruffolino/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2022lerschvitalistruffolino/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022lerschvitalistruffolino/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2022lerschvitalistruffolino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is parental divorce homogamy associated with a higher risk of separation from cohabitation and marriage?</title>
-      <link>/publication/2021kailaheimoetal/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021kailaheimoetal/</guid>
+      <link>https://www.emanuela-struffolino.com/publication/2021kailaheimoetal/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021kailaheimoetal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poverty, work and households. Analytical perspective on the working poor and new indicators</title>
-      <link>/publication/2021filandrimorlicchiostruffolino2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021filandrimorlicchiostruffolino2021/</guid>
+      <title>Povertà e ricchezza tra le famiglie di lavoratori in Italia. Trent’anni di svantaggio cumulativo</title>
+      <link>https://www.emanuela-struffolino.com/publication/2021filandristruffolino/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021filandristruffolino/</guid>
+      <description>&lt;p&gt;(ITA)&lt;/p&gt;
+&lt;p&gt;La povertà nonostante il lavoro rimane un problema rilevante e anzi in crescita. Ciò non è dovuto solo alle conseguenze economiche e sociali della pandemia, dal momento che tale tendenza era già chiaramente manifesta a partire dalla crisi del 2008. Da decenni milioni di famiglie in Europa (ma possiamo generalizzare ad altre aree geografiche) vivono in condizioni di povertà sebbene uno o più componenti siano di fatto parte del sistema occupazionale. Bisogna allora subito chiarire se parliamo di lavoro povero o di povertà delle famiglie di lavoratori. Questi concetti non sono solo analiticamente differenti, ma richiamano fenomeni non completamente sovrapponibili. Inoltre, essi hanno diverse implicazioni di policy. Nel saggio di introduzione alla Special Issue è analizzata la questione definitoria e sostanziale dei due lati del problema. Viene infatti argomentato come per un piano di intervento organico per contrastare la povertà da lavoro sono necessarie analisi approfondite che riconoscano la complessità del fenomeno guardando sia a bassi salari e limitata partecipazione al mercato del lavoro sia al nucleo famigliare, agli alti carichi familiari e al livello insufficiente di trasferimenti&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Povertà, lavoro e famiglia. Una riflessione introduttiva</title>
+      <link>https://www.emanuela-struffolino.com/publication/2021filandrimorlicchiostruffolino2021/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021filandrimorlicchiostruffolino2021/</guid>
+      <description>&lt;p&gt;(ITA)&lt;/p&gt;
+&lt;p&gt;La povertà nonostante il lavoro rimane un problema rilevante e anzi in crescita. Ciò non è dovuto solo alle conseguenze economiche e sociali della pandemia, dal momento che tale tendenza era già chiaramente manifesta a partire dalla crisi del 2008. Da decenni milioni di famiglie in Europa (ma possiamo generalizzare ad altre aree geografiche) vivono in condizioni di povertà sebbene uno o più componenti siano di fatto parte del sistema occupazionale. Bisogna allora subito chiarire se parliamo di lavoro povero o di povertà delle famiglie di lavoratori. Questi concetti non sono solo analiticamente differenti, ma richiamano fenomeni non completamente sovrapponibili. Inoltre, essi hanno diverse implicazioni di policy. Nel saggio di introduzione alla Special Issue è analizzata la questione definitoria e sostanziale dei due lati del problema. Viene infatti argomentato come per un piano di intervento organico per contrastare la povertà da lavoro sono necessarie analisi approfondite che riconoscano la complessità del fenomeno guardando sia a bassi salari e limitata partecipazione al mercato del lavoro sia al nucleo famigliare, agli alti carichi familiari e al livello insufficiente di trasferimenti&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gender and race differences in pathways out of in-work poverty in the US</title>
+      <link>https://www.emanuela-struffolino.com/publication/2021struffolinovanwinkle/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021struffolinovanwinkle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limited detraditionalization of intimacy. Growing socioeconomic differences in contraceptive use at first intercourse in Italy</title>
-      <link>/publication/2021struffolinozagel/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021struffolinozagel/</guid>
+      <link>https://www.emanuela-struffolino.com/publication/2021struffolinozagel/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021struffolinozagel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lone parenthood and employment trajectories. A longitudinal mixed-method study</title>
-      <link>/publication/2020struffolinobernardilarenza2020/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2020struffolinobernardilarenza2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020struffolinobernardilarenza2020/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2020struffolinobernardilarenza2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Did you realize your preferences for early retirement? Insights on the agency-within-structure mechanism across welfare regimes</title>
-      <link>/publication/2020struffolinozaccaria2020/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2020struffolinozaccaria2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020struffolinozaccaria2020/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2020struffolinozaccaria2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who is really &#34;left behind&#34;? Half a century of gender differences in the school-to-work transitions of low-educated youth</title>
-      <link>/publication/2020struffolinoborgna2020/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2020struffolinoborgna2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020struffolinoborgna2020/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2020struffolinoborgna2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Being working poor or feeling working poor? The role of work intensity and job stability for subjective poverty</title>
-      <link>/publication/2019filandripasquastruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2019filandripasquastruffolino2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019filandripasquastruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2019filandripasquastruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navigating the early career. The social stratification of young workers&#39; employment trajectories in Italy</title>
-      <link>/publication/2019struffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2019struffolino2019/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019struffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2019struffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual and household in-work poverty in Europe. understanding the role of labor market characteristics</title>
-      <link>/publication/2019filandristruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2019filandristruffolino2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019filandristruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2019filandristruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/cv/preprint/</link>
+      <link>https://www.emanuela-struffolino.com/cv/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/cv/preprint/</guid>
+      <guid>https://www.emanuela-struffolino.com/cv/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -108,97 +136,97 @@
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
-      <link>/publication/2019raabstruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2019raabstruffolino2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019raabstruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2019raabstruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hard times. Labor-market outcomes of early school leavers in Italy before and after the crisis [Tempi difficili. Le condizioni occupazionali degli early school leavers in Italia prima e dopo la crisi]</title>
-      <link>/publication/2019borgnastruffolino2019/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2019borgnastruffolino2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019borgnastruffolino2019/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2019borgnastruffolino2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the Relationship between Time-varying Covariates and Trajectories. The Sequence Analysis Multistate Model Procedure</title>
-      <link>/publication/2018studerstruffolinofasang2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018studerstruffolinofasang2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018studerstruffolinofasang2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018studerstruffolinofasang2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lavoratori o lavoratrici povere? Disuguaglianze di genere nel mercato del lavoro in Europa.</title>
-      <link>/publication/2018filandristruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018filandristruffolino2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018filandristruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018filandristruffolino2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lone mothers in Belgium. Labour force attachment and risk factors.</title>
-      <link>/publication/2018struffolinomortelmans2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018struffolinomortelmans2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018struffolinomortelmans2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018struffolinomortelmans2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migrant Status and Lone Motherhood. Risk Factors of Female Labour Force Participation in Switzerland.</title>
-      <link>/publication/2018milewskistruffolinobernardi2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018milewskistruffolinobernardi2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018milewskistruffolinobernardi2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018milewskistruffolinobernardi2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unpacking configurational dynamics. Sequence analysis and qualitative comparative analysis as a mixed-method design</title>
-      <link>/publication/2018borgnastruffolino2018/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2018borgnastruffolino2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018borgnastruffolino2018/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2018borgnastruffolino2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gender, education, and family life courses in East and West Germany. Insights from new sequence analysis techniques</title>
-      <link>/publication/2017studerstruffolinofasang2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2017studerstruffolinofasang2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017studerstruffolinofasang2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2017studerstruffolinofasang2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vulnerabilität alleinerziehender Mütter in der Schweiz aus einer Lebensverlaufsperspektive</title>
-      <link>/publication/2017struffolinobernardi2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2017struffolinobernardi2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017struffolinobernardi2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2017struffolinobernardi2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushed or pulled? Girls and boys facing early school leaving risk in Italy</title>
-      <link>/publication/2017borgnastruffolino2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2017borgnastruffolino2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017borgnastruffolino2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2017borgnastruffolino2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-reported health among lone mothers in Switzerland. Do employment and education matter?</title>
-      <link>/publication/2017struffolinobernardivoorpostel2017/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2017struffolinobernardivoorpostel2017/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2017struffolinobernardivoorpostel2017/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2017struffolinobernardivoorpostel2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>/cv/journal-article/</link>
+      <link>https://www.emanuela-struffolino.com/cv/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/cv/journal-article/</guid>
+      <guid>https://www.emanuela-struffolino.com/cv/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -215,9 +243,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>/cv/conference-paper/</link>
+      <link>https://www.emanuela-struffolino.com/cv/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/cv/conference-paper/</guid>
+      <guid>https://www.emanuela-struffolino.com/cv/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -234,17 +262,17 @@
     
     <item>
       <title>Traiettorie lavorative e salariali a inizio carriera in Italia. Un&#39;analisi longitudinale.</title>
-      <link>/publication/2013raitanostruffolino2013/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2013raitanostruffolino2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013raitanostruffolino2013/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2013raitanostruffolino2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working poor. Lavoratori con basso salario o occupati che vivono in famiglie povere? Un’analisi del fenomeno in Italia prima e dopo la crisi</title>
-      <link>/publication/2013filandristruffolino2013/</link>
+      <link>https://www.emanuela-struffolino.com/publication/2013filandristruffolino2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013filandristruffolino2013/</guid>
+      <guid>https://www.emanuela-struffolino.com/publication/2013filandristruffolino2013/</guid>
       <description></description>
     </item>
     

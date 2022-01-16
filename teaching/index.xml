@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Emanuela Struffolino</title>
-    <link>/teaching/</link>
-      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/teaching/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Teachings</title>
-      <link>/teaching/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/</link>
     </image>
     
     <item>
       <title>Sequence analysis in the social sciences. An introduction</title>
-      <link>/teaching/2020_sa_gesis/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2022_sa_turku/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/2022_sa_turku/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
+&lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panel data analysis for social research</title>
+      <link>https://www.emanuela-struffolino.com/teaching/2021_paneldata_unimi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/2021_paneldata_unimi/</guid>
+      <description>&lt;p&gt;NASP - Network for the Advancement in Social and Political Studies&lt;/p&gt;
+&lt;p&gt;PhD Program in Economic Sociology and Labour Studies&lt;/p&gt;
+&lt;p&gt;Academic Year 2021-2022&lt;/p&gt;
+&lt;p&gt;Objectives&lt;/p&gt;
+&lt;p&gt;The course aims at providing students with a basic understanding of the analysis of panel data, which consist of measurements of predictor and response variables at two or more points in time for many units of observation. At the end of the course, students should be able to apply these methods to an original research question.&lt;/p&gt;
+&lt;p&gt;Short Course Description&lt;/p&gt;
+&lt;p&gt;The course combines lectures with hands-on sessions with targeted assignments. The discussion of opportunity and challenges of panel data will be followed by the presentation of  linear and logistic regression models. We will focus mainly on robust standard errors, generalized least squares with maximum likelihood, random and fixed effects models as well as between-within models. At the end of the course, count data models will be introduced.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis in the social sciences. An introduction</title>
+      <link>https://www.emanuela-struffolino.com/teaching/2020_sa_gesis/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/2020_sa_gesis/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2020_sa_gesis/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
 &lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
 </description>
@@ -24,9 +49,9 @@
     
     <item>
       <title>Lecture &#34;Culture and values in European societies&#34;</title>
-      <link>/teaching/2020_fu_lecture_culture/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2020_fu_lecture_culture/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/2020_fu_lecture_culture/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2020_fu_lecture_culture/</guid>
       <description>&lt;p&gt;Lecture, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;What are the major cultural differences between the Member States of the European Union? How can one explain these differences? Are the cultural differences diminishing so that one can speak of a unified European culture? These are the three systematic research questions which underlie the structure of the lecture. The course will apply these questions to the different dimensions of culture. Apart from factual information, the course presents an overview of the different sociological concepts of culture and how different authors have used their concept to analyse cultural differences between European countries.&lt;/p&gt;
 </description>
@@ -34,9 +59,9 @@
     
     <item>
       <title>Seminar &#34;Data Analysis using STATA&#34;</title>
-      <link>/teaching/2020_fu_stata/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2020_fu_stata/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/2020_fu_stata/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2020_fu_stata/</guid>
       <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;This seminar ’s objective is to provide an introduction into data analysis using the software Stata. Stata is a powerful and yet easy-to-use statistical package. During the seminar you will be introduced into working with Stata as well as discussing a variety of different analytical techniques. The seminar consists of five sessions. During the sessions we will discuss different analytical techniques and how to perform them in the Stata environment. Topics of these sessions are e.g. data management, working with Do-Files, linear regression analysis and how to include and interpret different kinds of explanatory variables to the models.&lt;/p&gt;
 </description>
@@ -44,9 +69,9 @@
     
     <item>
       <title>Seminar &#34;In-work poverty in Europe and in the US&#34;</title>
-      <link>/teaching/2020_fu_wp/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2020_fu_wp/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/2020_fu_wp/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2020_fu_wp/</guid>
       <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;Working poor are individuals who are gainfully employed, but their household income is below the poverty threshold. Therefore, in-work poverty arises at intersection of labour market and family dynamics: on the one hand, individual resources are related to the likelihood of experiencing unfavourable labour market arrangements leading to poverty (e.g. low-wage or temporary contracts); on the other hand, specific family structure or family-life-course transitions (e.g., the birth of a child or divorce) are associated with different levels of households’ economic wellbeing. The seminar will examine how and why in-work poverty became a critical issue in the US and in Europe. The aim is to offers a comprehensive understanding of in-work poverty by, first, discussing the theoretical and methodological challenges of defining and measuring it. Second, we will consider the prevalence of working poor over time and across specific social groups will in different welfare and labor market regimes. Finally, we will discuss the implications of the characteristics of in-work poverty across countries for policy design.&lt;/p&gt;
 </description>
@@ -54,9 +79,9 @@
     
     <item>
       <title>Seminar &#34;Gender inequality in education and employment&#34;</title>
-      <link>/teaching/2018_hu_gender/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2018_hu_gender/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/teaching/2018_hu_gender/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2018_hu_gender/</guid>
       <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;The seminar will offer a comprehensive understanding of the role of gender inequality for education and employment from a social stratification perspective. Women’s roles have tremendously changed over the last century. In terms of educational attainment women have caught up to men and, in many countries, even overtaken them. Female students have long obtained higher grades than their male peers, they display more positive attitudes towards school, and have higher educational aspirations. However, in most industrialized societies gender disparities in the labour market and in the household endure. For example, women are disadvantaged compared to men with the same educational qualification both in terms of wage and contract duration, and they are more exposed to poverty risk when experiencing divorce or separation especially if poorly educated. The readings will examine the dynamics of gender inequality over the life-course and discuss how cumulative disadvantages mechanisms connect early age to later life outcomes in different domains.&lt;/p&gt;
 </description>
@@ -64,9 +89,9 @@
     
     <item>
       <title>Sequence analysis in the social sciences. An introduction</title>
-      <link>/teaching/2018_sa_unitn/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2018_sa_unitn/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/teaching/2018_sa_unitn/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2018_sa_unitn/</guid>
       <description>&lt;p&gt;Seminar, 12 hours/PhD level&lt;/p&gt;
 &lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
 </description>
@@ -74,9 +99,9 @@
     
     <item>
       <title>Sequence analysis in the social sciences. An introduction</title>
-      <link>/teaching/2018_sa_gesis/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2018_sa_gesis/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/teaching/2018_sa_gesis/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2018_sa_gesis/</guid>
       <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
 &lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
 </description>
@@ -84,9 +109,9 @@
     
     <item>
       <title>Seminar &#34;In-work poverty in Europe. Individual and family dynamics&#34;</title>
-      <link>/teaching/2017_hu_wp/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2017_hu_wp/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/teaching/2017_hu_wp/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2017_hu_wp/</guid>
       <description>&lt;p&gt;Seminar, 30 hours/M.A. level&lt;/p&gt;
 &lt;p&gt;The seminar offers a comprehensive understanding of in-work poverty in Europe. Working poor are individuals who are gainfully employed, but their salary or their household income is below the poverty threshold. Therefore, in-work poverty arises at intersection of labor market and poverty dynamics. On the one hand, individual resources are related to the likelihood of experiencing unfavourable labor market arrangements leading to poverty (e.g. low-wage or temporary contracts). On the other hand, specific family structure or family-life-course transitions are associated with different levels of households’ economic wellbeing. The seminar will examine how in-work poverty became a critical issue in the US first, and in Europe later. We will then discuss the theoretical and methodological challenges of defining and measuring in-work poverty. The prevalence of working poor over time and for specific social groups will be considered across welfare and labor market regimes. In a life-course perspective, special attention will be devoted to the generational and gender cleavages. Finally, implications for policies against in-work poverty will be discussed in light of both individual and household definitions.&lt;/p&gt;
 </description>
@@ -94,9 +119,9 @@
     
     <item>
       <title>Tutorial associated with the lecture “Family and demography”</title>
-      <link>/teaching/2015_2019_hu_gk/</link>
+      <link>https://www.emanuela-struffolino.com/teaching/2015_2019_hu_gk/</link>
       <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/teaching/2015_2019_hu_gk/</guid>
+      <guid>https://www.emanuela-struffolino.com/teaching/2015_2019_hu_gk/</guid>
       <description>&lt;p&gt;30 hours/B.A. level&lt;/p&gt;
 &lt;p&gt;Lecture by Anette Fasang und Gökçe Yurdakul&lt;/p&gt;
 &lt;p&gt;How are populations changing how are they related to family forms&amp;rsquo; dynamics? What urgent socio-political challenges arise from current population developments? This lecture introduces students to the BA in social demography and family sociology. These include micro-theories of family research, various methodological approaches to investigate family change, as well as the basics of social demography and demographic methods. In the course of the lecture, students acquire various theoretical approaches and empirical knowledge about families and populations in (East and West) Germany and consider them in a European and global comparison. Normative and ethical issues related to family and population analysis are also discussed.&lt;/p&gt;

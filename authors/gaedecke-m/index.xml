@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaedecke M. | Emanuela Struffolino</title>
+    <link>https://www.emanuela-struffolino.com/authors/gaedecke-m./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/gaedecke-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaedecke M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
+      <title>Gaedecke M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/gaedecke-m./</link>
+    </image>
+    
+    <item>
+      <title>Il lavoro in Germania durante la prima ondata della pandemia da Covid-19. Chiusure e differenze di genere</title>
+      <link>https://www.emanuela-struffolino.com/dissemination/zageletal12021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/dissemination/zageletal12021/</guid>
+      <description>&lt;p&gt;I dati presentati illustrano gli effetti che i lockdown nella prima ondata della pandemia hanno avuto negli stati federali tedeschi e il loro impatto prevalente sulle donne.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compensation and accumulation of economic risk during the COVID-19 pandemic. A research project to understand the role of households and social policy in East and West Germany</title>
+      <link>https://www.emanuela-struffolino.com/dissemination/fasangetal2020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/dissemination/fasangetal2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,104 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emanuela Struffolino</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/</link>
+      <atom:link href="https://www.emanuela-struffolino.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Emanuela Struffolino</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Emanuela Struffolino</title>
-      <link>/</link>
+      <link>https://www.emanuela-struffolino.com/</link>
     </image>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://www.emanuela-struffolino.com/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/</guid>
+      <guid>https://www.emanuela-struffolino.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datacodes</title>
-      <link>/datacode/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/datacode/</guid>
+      <link>https://www.emanuela-struffolino.com/publication/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teachings</title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <link>https://www.emanuela-struffolino.com/teaching/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disseminations</title>
-      <link>/dissemination/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/dissemination/</guid>
+      <link>https://www.emanuela-struffolino.com/dissemination/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/dissemination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacodes</title>
+      <link>https://www.emanuela-struffolino.com/datacode/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/datacode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.emanuela-struffolino.com/project/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://www.emanuela-struffolino.com/post/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
+      <guid>https://www.emanuela-struffolino.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/cv/</link>
+      <link>https://www.emanuela-struffolino.com/cv/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/cv/</guid>
+      <guid>https://www.emanuela-struffolino.com/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://www.emanuela-struffolino.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/</guid>
+      <guid>https://www.emanuela-struffolino.com/slides/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

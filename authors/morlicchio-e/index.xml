@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morlicchio E. | Emanuela Struffolino</title>
-    <link>/authors/morlicchio-e./</link>
-      <atom:link href="/authors/morlicchio-e./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emanuela-struffolino.com/authors/morlicchio-e./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/morlicchio-e./index.xml" rel="self" type="application/rss+xml" />
     <description>Morlicchio E.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Morlicchio E.</title>
-      <link>/authors/morlicchio-e./</link>
+      <link>https://www.emanuela-struffolino.com/authors/morlicchio-e./</link>
     </image>
     
     <item>
-      <title>Poverty, work and households. Analytical perspective on the working poor and new indicators</title>
-      <link>/publication/2021filandrimorlicchiostruffolino2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021filandrimorlicchiostruffolino2021/</guid>
-      <description></description>
+      <title>Povertà, lavoro e famiglia. Una riflessione introduttiva</title>
+      <link>https://www.emanuela-struffolino.com/publication/2021filandrimorlicchiostruffolino2021/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2021filandrimorlicchiostruffolino2021/</guid>
+      <description>&lt;p&gt;(ITA)&lt;/p&gt;
+&lt;p&gt;La povertà nonostante il lavoro rimane un problema rilevante e anzi in crescita. Ciò non è dovuto solo alle conseguenze economiche e sociali della pandemia, dal momento che tale tendenza era già chiaramente manifesta a partire dalla crisi del 2008. Da decenni milioni di famiglie in Europa (ma possiamo generalizzare ad altre aree geografiche) vivono in condizioni di povertà sebbene uno o più componenti siano di fatto parte del sistema occupazionale. Bisogna allora subito chiarire se parliamo di lavoro povero o di povertà delle famiglie di lavoratori. Questi concetti non sono solo analiticamente differenti, ma richiamano fenomeni non completamente sovrapponibili. Inoltre, essi hanno diverse implicazioni di policy. Nel saggio di introduzione alla Special Issue è analizzata la questione definitoria e sostanziale dei due lati del problema. Viene infatti argomentato come per un piano di intervento organico per contrastare la povertà da lavoro sono necessarie analisi approfondite che riconoscano la complessità del fenomeno guardando sia a bassi salari e limitata partecipazione al mercato del lavoro sia al nucleo famigliare, agli alti carichi familiari e al livello insufficiente di trasferimenti&lt;/p&gt;
+</description>
     </item>
     
   </channel>
