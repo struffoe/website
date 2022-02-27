@@ -5,20 +5,12 @@
     <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
       <atom:link href="https://www.emanuela-struffolino.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>2</title>
       <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
     </image>
-    
-    <item>
-      <title>Sequence Analysis</title>
-      <link>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Sequence analysis in the social sciences. An introduction</title>
@@ -28,6 +20,29 @@
       <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (University of Mannheim).&lt;/p&gt;
 &lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis for social science</title>
+      <link>https://www.emanuela-struffolino.com/teaching/2022_sa_michigan/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/2022_sa_michigan/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/lehrbereichsteam/anettefasang&#34;&gt; Anette Fasang&lt;/a&gt; (Humboldt-Universität zu Berlin).&lt;/p&gt;
+&lt;p&gt;Sequence analysis, originally developed in biology to analyze strings of DNA, has attracted increasing attention in the social sciences as a key tool for using longitudinal data to analyze life course processes, including labor market careers, transitions to adulthood, and family formation. This workshop covers the theoretical foundation of sequence analysis, basic descriptive tools, as well as the general work-flow of sequence analysis. Hands-on examples using R will demonstrate the basic analytical steps using illustrative data on family and labor market trajectories.&lt;/p&gt;
+&lt;p&gt;Topics include&lt;/p&gt;
+&lt;p&gt;-The theoretical foundation of sequence analysis in the social sciences
+-Making informed choices when compiling sequences from a longitudinal dataset
+-Description and visualization of sequences using R
+-Using output from sequence analysis (e.g. distance matrices, measures of complexity) in -further basic analysis (such as cluster analysis or regression).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Family demographic processes and in-work poverty. A systematic review</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022spolizzietal/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022spolizzietal/</guid>
+      <description></description>
     </item>
     
     <item>

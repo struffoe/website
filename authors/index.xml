@@ -5,7 +5,7 @@
     <link>https://www.emanuela-struffolino.com/authors/</link>
       <atom:link href="https://www.emanuela-struffolino.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Raab M.</title>
-      <link>https://www.emanuela-struffolino.com/authors/raab-m./</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/authors/raab-m./</guid>
+      <title>Polizzi A.</title>
+      <link>https://www.emanuela-struffolino.com/authors/polizzi-a./</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/polizzi-a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Struffolino E.</title>
       <link>https://www.emanuela-struffolino.com/authors/struffolino-e./</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://www.emanuela-struffolino.com/authors/struffolino-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Van Winkle Z.</title>
+      <link>https://www.emanuela-struffolino.com/authors/van-winkle-z./</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/van-winkle-z./</guid>
       <description></description>
     </item>
     
@@ -93,14 +101,6 @@
     </item>
     
     <item>
-      <title>Van Winkle Z.</title>
-      <link>https://www.emanuela-struffolino.com/authors/van-winkle-z./</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/authors/van-winkle-z./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zagel H.</title>
       <link>https://www.emanuela-struffolino.com/authors/zagel-h./</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
@@ -165,14 +165,6 @@
     </item>
     
     <item>
-      <title>Polizzi A.</title>
-      <link>https://www.emanuela-struffolino.com/authors/polizzi-a./</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/authors/polizzi-a./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Paqua S.</title>
       <link>https://www.emanuela-struffolino.com/authors/paqua-s./</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
@@ -209,6 +201,14 @@
 &lt;p&gt;I obtained my PhD in Sociology at the &lt;a href= https://www.sociologia.unimib.it/it &gt; University of Milano-Bicocca&lt;/a&gt; and worked as research fellow at the Swiss National Centre for Competence in Research &lt;a href= https://www.lives-nccr.ch/en &gt; &amp;ldquo;LIVES - Overcoming vulnerability: A life-course perspective&amp;quot;&lt;/a&gt; at the University of Lausanne.&lt;/p&gt;
 &lt;p&gt;On this website, you can find information on my publications and ongoing research.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Raab M.</title>
+      <link>https://www.emanuela-struffolino.com/authors/raab-m./</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/authors/raab-m./</guid>
+      <description></description>
     </item>
     
     <item>

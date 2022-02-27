@@ -23,6 +23,21 @@
     </item>
     
     <item>
+      <title>Sequence analysis for social science</title>
+      <link>https://www.emanuela-struffolino.com/teaching/2022_sa_michigan/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/2022_sa_michigan/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://www.sowi.hu-berlin.de/de/lehrbereiche/mikrosoziologie/lehrbereichsteam/anettefasang&#34;&gt; Anette Fasang&lt;/a&gt; (Humboldt-Universität zu Berlin).&lt;/p&gt;
+&lt;p&gt;Sequence analysis, originally developed in biology to analyze strings of DNA, has attracted increasing attention in the social sciences as a key tool for using longitudinal data to analyze life course processes, including labor market careers, transitions to adulthood, and family formation. This workshop covers the theoretical foundation of sequence analysis, basic descriptive tools, as well as the general work-flow of sequence analysis. Hands-on examples using R will demonstrate the basic analytical steps using illustrative data on family and labor market trajectories.&lt;/p&gt;
+&lt;p&gt;Topics include&lt;/p&gt;
+&lt;p&gt;-The theoretical foundation of sequence analysis in the social sciences
+-Making informed choices when compiling sequences from a longitudinal dataset
+-Description and visualization of sequences using R
+-Using output from sequence analysis (e.g. distance matrices, measures of complexity) in -further basic analysis (such as cluster analysis or regression).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Panel data analysis for social research</title>
       <link>https://www.emanuela-struffolino.com/teaching/2021_paneldata_unimi/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>

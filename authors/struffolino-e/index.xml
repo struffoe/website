@@ -5,7 +5,7 @@
     <link>https://www.emanuela-struffolino.com/authors/struffolino-e./</link>
       <atom:link href="https://www.emanuela-struffolino.com/authors/struffolino-e./index.xml" rel="self" type="application/rss+xml" />
     <description>Struffolino E.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>Struffolino E.</title>
@@ -13,10 +13,35 @@
     </image>
     
     <item>
-      <title>Sequence Analysis</title>
-      <link>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/publication/2022raabstruffolino/</guid>
+      <title>Systematic review on family demographic processes and in-work poverty</title>
+      <link>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</guid>
+      <description>&lt;p&gt;Version 2.0.0. WZB Berlin Social Science Center. Dataset&lt;/p&gt;
+&lt;p&gt;This archive includes all data compiled in the course of a systematic review on the association between family demographic processes and in-work poverty that represents the empirical material used in the paper&lt;/p&gt;
+&lt;p&gt;Polizzi, Struffolino, Van Winkle. 2022. Family demographic processes and in-work poverty: A systematic review, Advances in Life Course Research, &lt;a href=&#34;https://doi.org/10.1016/j.alcr.2022.100462&#34;&gt;https://doi.org/10.1016/j.alcr.2022.100462&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This article reviews ever published quantitative evidence on in-work poverty and family demographic processes in OECD and EU-28 countries.&lt;/p&gt;
+&lt;p&gt;In this systematic review, we first provide a quantitative review of results from analyses that estimated the association between in-work poverty and parental home leaving, union formation, marriage, parenthood, and dissolution of non-marital and marital unions. This allows us to formulate tentative conclusions about whether and in which direction family demographic processes are associated with in-work poverty. Second, we discuss in detail conceptual and methodological advances in in-work poverty research, that is analyses that deviated from the more conventional approaches adopted in the analyses selected for the quantitative review or that accounted for the interaction between family demographic processes and individual or context characteristics.&lt;/p&gt;
+&lt;p&gt;The methods report provides detailed information on all files included in the archive.&lt;/p&gt;
+&lt;p&gt;You can donwload the data from the &lt;a href=&#34;https://doi.org/10.7802/2041&#34;&gt; GESIS Repository SowiDataNet|datorium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@hu-berlin.de&#34;&gt;emanuela.struffolino@hu-berlin.de&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the data, please cite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Polizzi, Antonino; Struffolino, Emanuela; van Winkle, Zachary (2020): Systematic review on family demographic processes and in-work poverty. Version 1.0.0. WZB Berlin Social Science Center. Dataset. &lt;a href=&#34;https://doi.org/10.7802/2041&#34;&gt;https://doi.org/10.7802/2041&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Family demographic processes and in-work poverty. A systematic review</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022spolizzietal/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022spolizzietal/</guid>
       <description></description>
     </item>
     
@@ -232,31 +257,6 @@ Dataset. - &lt;a href=&#34;https://doi.org/10.7802/2247&#34;&gt;https://doi.org/
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Gädecke, Martin; Struffolino, Emanuela; Zagel, Hannah (2020: Family planning centres and doctors&amp;rsquo; conscientious objection in Italy. Historical series by region. Version 1.0.0. WZB Berlin Social Science Center. Dataset.https://dx.doi.org/10.7802/1.2031&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Systematic review on family demographic processes and in-work poverty</title>
-      <link>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.emanuela-struffolino.com/datacode/data2_iwpsysreview/</guid>
-      <description>&lt;p&gt;Version 1.0.0. WZB Berlin Social Science Center. Dataset&lt;/p&gt;
-&lt;p&gt;This archive includes all data compiled in the course of a systematic review on the association between family demographic processes and in-work poverty that represents the empirical material used in the paper&lt;/p&gt;
-&lt;p&gt;Polizzi, Struffolino, Van Winkle. 2020. &amp;ldquo;Family Demographic Processes and In-Work Poverty. A Systematic Review.&amp;rdquo; SocArXiv &lt;a href=&#34;https://doi.org/10.31235/osf.io/zncaq&#34;&gt;https://doi.org/10.31235/osf.io/zncaq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The systematic review aims at locating empirical results on these associations within a common grid to summarize the findings with respect to five family demographic processes: parental home leaving, cohabitation, parenthood and subsequent births, union formation, and union dissolution. We concentrate on empirical studies on in-work poverty in OECD and EU-28 countries without any restriction on the year of publication.&lt;/p&gt;
-&lt;p&gt;In the first part of the systematic review, we provide a quantitative review of results from a comparative pool of cross-sectional analyses. In the second part of the systematic review, we perform a narrative review of the literature that pays special attention to recent research implementing a longitudinal design with household panel data and to alternative operationalizations of pivotal variables.&lt;/p&gt;
-&lt;p&gt;The methods report provides detailed information on all files included in the archive.&lt;/p&gt;
-&lt;p&gt;You can donwload the data from the &lt;a href=&#34;https://doi.org/10.7802/2041&#34;&gt; GESIS Repository SowiDataNet|datorium&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;If you have questions or remarks on the data, please send an email to &lt;a href=&#34;mailto:emanuela.struffolino@hu-berlin.de&#34;&gt;emanuela.struffolino@hu-berlin.de&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If you use the data, please cite&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Polizzi, Antonino; Struffolino, Emanuela; van Winkle, Zachary (2020): Systematic review on family demographic processes and in-work poverty. Version 1.0.0. WZB Berlin Social Science Center. Dataset. &lt;a href=&#34;https://doi.org/10.7802/2041&#34;&gt;https://doi.org/10.7802/2041&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
