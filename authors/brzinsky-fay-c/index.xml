@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brzinsky-Fay C. | Emanuela Struffolino</title>
+    <link>https://www.emanuela-struffolino.com/authors/brzinsky-fay-c./</link>
+      <atom:link href="https://www.emanuela-struffolino.com/authors/brzinsky-fay-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Brzinsky-Fay C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
+      <title>Brzinsky-Fay C.</title>
+      <link>https://www.emanuela-struffolino.com/authors/brzinsky-fay-c./</link>
+    </image>
+    
+    <item>
+      <title>Sequence analysis. Its past, present, and future</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022liaoetal/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022liaoetal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

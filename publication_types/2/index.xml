@@ -5,12 +5,38 @@
     <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
       <atom:link href="https://www.emanuela-struffolino.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.emanuela-struffolino.com/img/icon-192.png</url>
       <title>2</title>
       <link>https://www.emanuela-struffolino.com/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>My Wealth, (Y)Our Life Satisfaction? Sole and Joint Wealth Ownership and Life Satisfaction in Marriage</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022kapelleetal/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022kapelleetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis in the social sciences. An introduction</title>
+      <link>https://www.emanuela-struffolino.com/teaching/2022_sa_gesis/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/teaching/2022_sa_gesis/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://marcelraab.de/&#34;&gt; Marcel Raab&lt;/a&gt; (ifb-Bamberg).&lt;/p&gt;
+&lt;p&gt;This workshop introduces sequence analysis for social science research. Sequence analysis is a set of tools to analyze sequences of categorical states that represent processes that unfold over time. These tools were first introduced to social sciences in the form of optimal matching analysis by Andrew Abbott who imported this approach from biology and computer science. Sequence analysis has attracted increasing attention in the social sciences for the analysis of longitudinal life-course data, as labor market careers, transitions to adulthood, or family formation. More recently, sequences are scrutinized in other fields of social sciences such as geography, archaeology, and economics This workshop covers longitudinal data management (only briefly) and basic techniques of sequence analysis to (1) describe and (2) visualize sequences, (3) to identify typical patterns among a set of sequences using cluster analysis, and (4) to examine the antecedents and consequences of these patterns. Recent approaches combining sequence analysis with event history analysis and propensity score matching will be also discussed.  All analytical steps are demonstrated with hands-on examples using Stata (for data preparation and basic sequence analysis using commands from the SQ and SADI ados) and R (TraMineR and ancillary packages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence analysis. Its past, present, and future</title>
+      <link>https://www.emanuela-struffolino.com/publication/2022liaoetal/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emanuela-struffolino.com/publication/2022liaoetal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sistemi sociali comparati, A.A. 2021/2022</title>
